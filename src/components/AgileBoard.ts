@@ -1,1 +1,1 @@
-main: integrate with blockchain network 2020-01-22 00:00:00 +0200
+docs: update project documentation 2020-01-22 00:00:06 +0200
