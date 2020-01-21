@@ -1,1 +1,1 @@
-release: announce v1.0.0 release 2020-05-11 00:00:03 +0200
+release: prepare for v2.1.0 release 2020-01-22 00:00:03 +0200

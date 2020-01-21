@@ -1,1 +1,1 @@
-release: finalize release notes 2020-03-16 00:00:06 +0200
+release: prepare for v2.1.0 release 2020-01-22 00:00:03 +0200

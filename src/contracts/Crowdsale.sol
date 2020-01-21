@@ -1,1 +1,1 @@
-config: configure settings for release build 2020-02-13 00:00:04 +0200
+release: prepare for v2.1.0 release 2020-01-22 00:00:03 +0200
