@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2020-02-11 00:00:05 +0200
+feature: add decentralized lending protocol 2020-01-22 00:00:05 +0200
