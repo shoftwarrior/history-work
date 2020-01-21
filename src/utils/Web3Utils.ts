@@ -1,1 +1,1 @@
-main: update documentation 2020-01-22 00:00:08 +0200
+bugfix: fix issue with form validation 2020-01-22 00:00:11 +0200
