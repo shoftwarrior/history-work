@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2020-02-12 00:00:00 +0200
+main: initialize DeFi project 2020-01-22 00:00:07 +0200
