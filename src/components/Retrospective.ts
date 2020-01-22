@@ -1,1 +1,1 @@
-hotfix: address gas inefficiencies in staking mechanism 2020-08-22 00:00:01 +0200
+fix: resolve issue with social media login 2020-01-23 00:00:11 +0200

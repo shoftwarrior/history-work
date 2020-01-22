@@ -1,1 +1,1 @@
-config: adjust settings for hotfix 2020-03-18 00:00:13 +0200
+fix: resolve issue with social media login 2020-01-23 00:00:11 +0200
