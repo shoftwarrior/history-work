@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: initialize DeFi project 2020-01-22 00:00:07 +0200
-=======
-feature: implement governance module 2020-01-22 00:00:02 +0200
->>>>>>> feature
+main: set up smart contract infrastructure 2020-01-23 00:00:06 +0200

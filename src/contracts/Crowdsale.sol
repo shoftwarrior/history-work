@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2020-01-23 00:00:00 +0200
+main: set up smart contract infrastructure 2020-01-23 00:00:06 +0200
