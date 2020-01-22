@@ -1,1 +1,1 @@
-main: update documentation 2020-01-22 00:00:08 +0200
+refactor: optimize main module 2020-01-23 00:00:10 +0200
