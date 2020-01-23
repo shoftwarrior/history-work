@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2020-01-24 00:00:06 +0200
+config: update deployment settings 2020-01-24 00:00:15 +0200
