@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test: add main branch unit tests 2020-01-22 00:00:01 +0200
-=======
-feature: implement file upload feature 2020-01-22 00:00:10 +0200
->>>>>>> feature
+main: set up smart contract infrastructure 2020-01-24 00:00:06 +0200
