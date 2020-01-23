@@ -1,1 +1,1 @@
-feature: implement governance module 2020-01-23 00:00:07 +0200
+docs: document new feature in README 2020-01-24 00:00:04 +0200
