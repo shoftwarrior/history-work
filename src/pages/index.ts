@@ -1,1 +1,1 @@
-feat: develop user profile page 2020-01-23 00:00:13 +0200
+bugfix: address issues reported in feature 2020-01-24 00:00:03 +0200
