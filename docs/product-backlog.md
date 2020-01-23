@@ -1,1 +1,1 @@
-feat: introduce dark mode 2020-01-24 00:00:13 +0200
+feature: implement synthetic asset creation 2020-01-24 00:00:14 +0200
