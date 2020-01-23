@@ -1,1 +1,1 @@
-feature: add search functionality 2020-01-24 00:00:10 +0200
+feat: introduce dark mode 2020-01-24 00:00:13 +0200
