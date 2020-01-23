@@ -1,1 +1,1 @@
-bug: fix database connection issue 2020-05-19 00:00:06 +0200
+bugfix: address gas inefficiencies 2020-01-24 00:00:05 +0200

@@ -1,1 +1,1 @@
-merge: integrate changes from release branch 2020-04-12 00:00:04 +0200
+bugfix: address gas inefficiencies 2020-01-24 00:00:05 +0200
