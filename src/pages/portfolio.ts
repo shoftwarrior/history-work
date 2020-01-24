@@ -1,1 +1,1 @@
-feat: introduce dark mode 2020-01-24 00:00:13 +0200
+config: update feature-specific settings 2020-01-25 00:00:02 +0200
