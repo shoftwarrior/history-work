@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2020-01-24 00:00:12 +0200
+bugfix: resolve issue with login functionality 2020-01-25 00:00:05 +0200
