@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2020-02-28 00:00:00 +0200
+bugfix: fix issue with form validation 2020-02-11 00:00:01 +0200
