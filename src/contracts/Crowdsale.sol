@@ -1,1 +1,1 @@
-release: finalize release notes 2020-03-16 00:00:06 +0200
+release: update version number in code 2020-02-11 00:00:04 +0200
