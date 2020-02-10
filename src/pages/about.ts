@@ -1,1 +1,1 @@
-config: update feature-specific settings 2020-02-11 00:00:03 +0200
+ui: improve user interface for feature 2020-02-11 00:00:05 +0200
