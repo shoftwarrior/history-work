@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: optimize gas consumption 2020-03-16 00:00:04 +0200
-=======
-ui: implement new dashboard design 2020-03-07 00:00:00 +0200
->>>>>>> feature
+docs: update project README 2020-02-11 00:00:09 +0200
