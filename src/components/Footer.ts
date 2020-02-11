@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: implement basic tokenomics 2020-03-07 00:00:02 +0200
-=======
-feat: introduce dark mode 2020-03-07 00:00:04 +0200
->>>>>>> feature
+chore: bump version to v1.0.0 2020-02-12 00:00:00 +0200
