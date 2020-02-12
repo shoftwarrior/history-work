@@ -1,1 +1,1 @@
-release: announce v1.0.0 release 2020-05-11 00:00:03 +0200
+config: configure settings for release build 2020-02-13 00:00:04 +0200

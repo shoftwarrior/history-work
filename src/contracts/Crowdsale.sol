@@ -1,1 +1,1 @@
-release: update version number in code 2020-02-11 00:00:04 +0200
+config: configure settings for release build 2020-02-13 00:00:04 +0200

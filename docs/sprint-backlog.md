@@ -1,1 +1,1 @@
-release: finalize release notes 2020-03-16 00:00:06 +0200
+config: configure settings for release build 2020-02-13 00:00:04 +0200

@@ -1,1 +1,1 @@
-test: perform release testing 2020-06-16 00:00:03 +0200
+config: configure settings for release build 2020-02-13 00:00:04 +0200
