@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-02-11 00:00:11 +0200
+main: optimize gas consumption 2020-02-13 00:00:03 +0200

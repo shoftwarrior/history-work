@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2020-02-12 00:00:00 +0200
+main: optimize gas consumption 2020-02-13 00:00:03 +0200
