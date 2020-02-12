@@ -1,1 +1,1 @@
-docs: document main branch changes 2020-02-12 00:00:01 +0200
+main: optimize gas consumption 2020-02-13 00:00:02 +0200
