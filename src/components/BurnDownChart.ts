@@ -1,1 +1,1 @@
-test: add main branch unit tests 2020-03-07 00:00:05 +0200
+ci: configure continuous integration pipeline 2020-02-28 00:00:00 +0200
