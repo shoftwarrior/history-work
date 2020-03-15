@@ -1,1 +1,1 @@
-style: format code according to style guide 2020-03-19 00:00:12 +0200
+main: optimize gas consumption 2020-03-16 00:00:04 +0200
