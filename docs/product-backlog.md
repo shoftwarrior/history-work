@@ -1,1 +1,1 @@
-ui: finalize UI adjustments for release 2020-06-28 00:00:04 +0200
+release: finalize release notes 2020-03-16 00:00:06 +0200

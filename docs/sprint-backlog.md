@@ -1,1 +1,1 @@
-release: tag version 3.0.0 2020-06-16 00:00:04 +0200
+release: finalize release notes 2020-03-16 00:00:06 +0200

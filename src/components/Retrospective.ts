@@ -1,1 +1,1 @@
-refactor: optimize code for final release 2020-05-19 00:00:00 +0200
+release: finalize release notes 2020-03-16 00:00:06 +0200
