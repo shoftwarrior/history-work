@@ -1,1 +1,1 @@
-test: add unit tests for core functionality 2020-03-18 00:00:12 +0200
+main: integrate decentralized oracle service 2020-03-18 00:00:14 +0200

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: implement basic tokenomics 2020-04-12 00:00:09 +0200
-=======
-feature: implement governance module 2020-04-12 00:00:03 +0200
->>>>>>> feature
+main: integrate decentralized oracle service 2020-03-18 00:00:14 +0200
