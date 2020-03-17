@@ -1,1 +1,1 @@
-user-story: improve user onboarding 2020-03-18 00:00:03 +0200
+ui: redesign user interface for user story 2020-03-18 00:00:08 +0200

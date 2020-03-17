@@ -1,1 +1,1 @@
-user-story: implement user notifications 2020-04-09 00:00:02 +0200
+ui: redesign user interface for user story 2020-03-18 00:00:08 +0200

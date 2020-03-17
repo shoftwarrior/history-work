@@ -1,1 +1,1 @@
-user-story: integrate social media login 2020-04-12 00:00:01 +0200
+ui: redesign user interface for user story 2020-03-18 00:00:08 +0200
