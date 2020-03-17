@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2020-04-12 00:00:06 +0200
+feature: implement user authentication 2020-03-18 00:00:00 +0200
