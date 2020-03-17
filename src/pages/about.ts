@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2020-03-18 00:00:14 +0200
+main: integrate with blockchain network 2020-03-18 00:00:16 +0200
