@@ -1,1 +1,1 @@
-chore: initial project setup 2020-03-18 00:00:04 +0200
+test: add unit tests for core functionality 2020-03-18 00:00:12 +0200

@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-03-18 00:00:07 +0200
+test: add unit tests for core functionality 2020-03-18 00:00:12 +0200
