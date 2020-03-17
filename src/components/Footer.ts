@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2020-04-10 00:00:01 +0200
+feature: enable flash loans 2020-03-18 00:00:17 +0200

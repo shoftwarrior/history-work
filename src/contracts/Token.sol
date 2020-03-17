@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-03-18 00:00:09 +0200
+feature: enable flash loans 2020-03-18 00:00:17 +0200
