@@ -1,1 +1,1 @@
-feature: implement governance module 2020-04-12 00:00:03 +0200
+feature: integrate staking mechanism 2020-03-18 00:00:05 +0200
