@@ -1,1 +1,1 @@
-feat: implement user registration 2020-04-20 00:00:00 +0200
+feature: implement admin dashboard 2020-03-18 00:00:02 +0200
