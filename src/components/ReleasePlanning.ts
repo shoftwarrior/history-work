@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ci: configure continuous integration 2020-04-12 00:00:02 +0200
-=======
-docs: update user story documentation 2020-04-12 00:00:05 +0200
->>>>>>> user-story
+merge: integrate changes from feature branch 2020-03-18 00:00:01 +0200
