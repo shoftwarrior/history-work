@@ -1,1 +1,1 @@
-feature: add insurance protocol 2020-04-11 00:00:01 +0200
+docs: document new feature in README 2020-03-18 00:00:09 +0200
