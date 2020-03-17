@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2020-03-18 00:00:01 +0200
+chore: initial project setup 2020-03-18 00:00:04 +0200
