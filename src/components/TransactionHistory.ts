@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2020-05-20 00:00:03 +0200
+bugfix: resolve issue with login functionality 2020-03-18 00:00:10 +0200

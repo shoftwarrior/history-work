@@ -1,1 +1,1 @@
-bugfix: address gas inefficiencies 2020-04-09 00:00:01 +0200
+bugfix: resolve issue with login functionality 2020-03-18 00:00:10 +0200

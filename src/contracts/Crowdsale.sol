@@ -1,1 +1,1 @@
-bug: address validation error in form 2020-05-11 00:00:07 +0200
+bugfix: resolve issue with login functionality 2020-03-18 00:00:10 +0200
