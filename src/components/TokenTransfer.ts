@@ -1,1 +1,1 @@
-hotfix: resolve issue with decentralized exchange 2020-05-16 00:00:05 +0200
+config: adjust settings for hotfix 2020-03-18 00:00:13 +0200

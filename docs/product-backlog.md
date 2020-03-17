@@ -1,1 +1,1 @@
-hotfix: address gas inefficiencies in staking mechanism 2020-07-19 00:00:02 +0200
+config: adjust settings for hotfix 2020-03-18 00:00:13 +0200
