@@ -1,1 +1,1 @@
-main: integrate with blockchain network 2020-03-18 00:00:16 +0200
+docs: document main branch changes 2020-03-19 00:00:02 +0200
