@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-03-18 00:00:09 +0200
+new: integrate payment gateway 2020-03-19 00:00:01 +0200
