@@ -1,1 +1,1 @@
-main: initialize DeFi project 2020-03-18 00:00:15 +0200
+main: set up smart contract infrastructure 2020-03-19 00:00:08 +0200
