@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2020-03-18 00:00:14 +0200
+main: implement basic tokenomics 2020-03-19 00:00:04 +0200
