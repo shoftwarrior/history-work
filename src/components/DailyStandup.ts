@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2020-03-19 00:00:08 +0200
+style: format code according to style guide 2020-03-19 00:00:12 +0200
