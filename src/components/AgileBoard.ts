@@ -1,1 +1,1 @@
-ui: redesign user interface for user story 2020-03-18 00:00:08 +0200
+refactor: optimize code for user story 2020-03-19 00:00:03 +0200
