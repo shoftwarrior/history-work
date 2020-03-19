@@ -1,1 +1,1 @@
-hotfix: address performance issue 2020-11-23 00:00:06 +0200
+hotfix: optimize gas usage in synthetic asset creation 2020-03-20 00:00:00 +0200

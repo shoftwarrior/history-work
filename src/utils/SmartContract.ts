@@ -1,1 +1,1 @@
-config: adjust settings for hotfix 2020-03-18 00:00:13 +0200
+hotfix: optimize gas usage in synthetic asset creation 2020-03-20 00:00:00 +0200

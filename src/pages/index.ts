@@ -1,1 +1,1 @@
-hotfix: address gas inefficiencies in staking mechanism 2020-07-19 00:00:02 +0200
+hotfix: optimize gas usage in synthetic asset creation 2020-03-20 00:00:00 +0200
