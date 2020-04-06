@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-style: format code according to style guide 2020-04-19 00:00:01 +0200
-=======
-new: integrate payment gateway 2020-04-19 00:00:05 +0200
->>>>>>> feature
-=======
-feature: implement admin dashboard 2020-04-19 00:00:08 +0200
->>>>>>> feature
+version: bump to v1.1.0 2020-04-07 00:00:00 +0200
