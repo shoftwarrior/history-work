@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2020-04-07 00:00:00 +0200
+bugfix: fix issue with form validation 2020-04-07 00:00:03 +0200
