@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2020-04-07 00:00:03 +0200
+refactor: optimize database queries 2020-04-08 00:00:00 +0200
