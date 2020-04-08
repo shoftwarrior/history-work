@@ -1,1 +1,1 @@
-docs: update user story documentation 2020-05-17 00:00:09 +0200
+version: bump to v1.2.0 for user story release 2020-04-09 00:00:08 +0200
