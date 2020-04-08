@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2020-05-20 00:00:03 +0200
+bugfix: address gas inefficiencies 2020-04-09 00:00:01 +0200
