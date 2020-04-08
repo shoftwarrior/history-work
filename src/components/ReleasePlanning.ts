@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2020-04-19 00:00:00 +0200
+ci: configure continuous integration 2020-04-09 00:00:04 +0200
