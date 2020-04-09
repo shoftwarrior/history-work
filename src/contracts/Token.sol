@@ -1,1 +1,1 @@
-test: write integration tests for feature 2020-04-07 00:00:02 +0200
+feature: integrate staking mechanism 2020-04-10 00:00:00 +0200
