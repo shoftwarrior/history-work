@@ -1,1 +1,1 @@
-version: bump to v1.2.0 for user story release 2020-04-09 00:00:08 +0200
+bugfix: fix user-related issues 2020-04-10 00:00:03 +0200
