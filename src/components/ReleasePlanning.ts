@@ -1,1 +1,1 @@
-feature: integrate staking mechanism 2020-04-10 00:00:00 +0200
+bugfix: address issues reported in feature 2020-04-10 00:00:01 +0200
