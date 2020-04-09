@@ -1,1 +1,1 @@
-feat: implement user registration 2020-04-20 00:00:00 +0200
+config: update feature-specific settings 2020-04-10 00:00:02 +0200
