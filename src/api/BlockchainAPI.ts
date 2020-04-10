@@ -1,1 +1,1 @@
-new: integrate payment gateway 2020-04-19 00:00:05 +0200
+feature: add insurance protocol 2020-04-11 00:00:01 +0200
