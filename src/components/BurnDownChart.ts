@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2020-04-09 00:00:07 +0200
+chore: bump version to v1.0.0 2020-04-11 00:00:03 +0200
