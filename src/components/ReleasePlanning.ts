@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2020-04-09 00:00:07 +0200
+main: integrate decentralized oracle service 2020-04-11 00:00:04 +0200
