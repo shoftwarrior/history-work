@@ -1,1 +1,1 @@
-version: bump to v1.2.0 for user story release 2020-04-09 00:00:08 +0200
+user-story: integrate social media login 2020-04-12 00:00:01 +0200

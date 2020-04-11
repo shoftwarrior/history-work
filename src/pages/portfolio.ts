@@ -1,1 +1,1 @@
-bugfix: fix user-related issues 2020-04-10 00:00:03 +0200
+user-story: integrate social media login 2020-04-12 00:00:01 +0200
