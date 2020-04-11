@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2020-05-20 00:00:03 +0200
+merge: integrate changes from release branch 2020-04-12 00:00:04 +0200

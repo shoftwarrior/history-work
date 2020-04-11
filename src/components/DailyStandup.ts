@@ -1,1 +1,1 @@
-bugfix: resolve liquidity mining issues 2020-08-11 00:00:00 +0200
+merge: integrate changes from release branch 2020-04-12 00:00:04 +0200
