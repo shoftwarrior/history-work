@@ -1,1 +1,1 @@
-user-story: resolve user-reported issues 2020-05-22 00:00:03 +0200
+docs: update user story documentation 2020-04-12 00:00:05 +0200
