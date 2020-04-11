@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2020-04-11 00:00:03 +0200
+ci: configure continuous integration 2020-04-12 00:00:02 +0200
