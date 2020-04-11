@@ -1,1 +1,1 @@
-feature: add insurance protocol 2020-04-11 00:00:01 +0200
+feature: implement governance module 2020-04-12 00:00:03 +0200
