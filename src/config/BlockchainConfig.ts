@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2020-04-12 00:00:06 +0200
+main: implement basic tokenomics 2020-04-12 00:00:09 +0200
