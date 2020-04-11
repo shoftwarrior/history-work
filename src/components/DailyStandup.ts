@@ -1,1 +1,1 @@
-feature: integrate staking mechanism 2020-04-10 00:00:00 +0200
+feature: integrate decentralized exchange 2020-04-12 00:00:00 +0200
