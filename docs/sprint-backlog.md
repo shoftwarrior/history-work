@@ -1,1 +1,1 @@
-refactor: optimize code for performance 2020-05-08 00:00:04 +0200
+docs: document new feature in README 2020-04-14 00:00:00 +0200

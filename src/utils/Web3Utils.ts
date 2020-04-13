@@ -1,1 +1,1 @@
-new: integrate payment gateway 2020-05-11 00:00:05 +0200
+docs: document new feature in README 2020-04-14 00:00:00 +0200
