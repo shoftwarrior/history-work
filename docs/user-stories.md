@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2020-05-11 00:00:01 +0200
+feat: add notification system 2020-04-15 00:00:02 +0200
