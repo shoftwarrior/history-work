@@ -1,1 +1,1 @@
-main: optimize gas consumption 2020-04-15 00:00:01 +0200
+main: refactor smart contract logic 2020-04-17 00:00:01 +0200
