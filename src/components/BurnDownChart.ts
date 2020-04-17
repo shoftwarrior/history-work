@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2020-04-17 00:00:01 +0200
+main: initialize DeFi project 2020-04-18 00:00:02 +0200
