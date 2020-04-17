@@ -1,1 +1,1 @@
-bug: address validation error in form 2020-05-11 00:00:07 +0200
+fix: address performance bottleneck 2020-04-18 00:00:04 +0200

@@ -1,1 +1,1 @@
-bug: fix database connection issue 2020-05-19 00:00:06 +0200
+fix: address performance bottleneck 2020-04-18 00:00:04 +0200
