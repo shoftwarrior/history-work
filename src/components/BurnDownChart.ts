@@ -1,1 +1,1 @@
-main: initialize DeFi project 2020-04-18 00:00:02 +0200
+main: integrate decentralized oracle service 2020-04-18 00:00:05 +0200
