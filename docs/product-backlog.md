@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2020-04-19 00:00:06 +0200
+feature: implement admin dashboard 2020-04-19 00:00:08 +0200
