@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-04-14 00:00:00 +0200
+feature: integrate decentralized exchange 2020-04-19 00:00:04 +0200

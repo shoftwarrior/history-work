@@ -1,1 +1,1 @@
-new: integrate payment gateway 2020-05-11 00:00:05 +0200
+feature: integrate decentralized exchange 2020-04-19 00:00:04 +0200
