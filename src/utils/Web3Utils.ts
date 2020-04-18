@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2020-04-18 00:00:05 +0200
+bugfix: fix issue with form validation 2020-04-19 00:00:07 +0200

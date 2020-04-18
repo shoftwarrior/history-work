@@ -1,1 +1,1 @@
-style: format code according to style guide 2020-04-19 00:00:01 +0200
+bugfix: fix issue with form validation 2020-04-19 00:00:07 +0200

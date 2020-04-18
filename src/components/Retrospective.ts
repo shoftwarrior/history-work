@@ -1,1 +1,1 @@
-main: initialize DeFi project 2020-04-18 00:00:02 +0200
+bugfix: fix issue with form validation 2020-04-19 00:00:07 +0200
