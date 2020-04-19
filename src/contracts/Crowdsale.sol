@@ -1,1 +1,1 @@
-feature: implement user authentication 2020-04-19 00:00:09 +0200
+main: implement basic tokenomics 2020-04-20 00:00:01 +0200

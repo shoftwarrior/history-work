@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2020-04-19 00:00:07 +0200
+main: implement basic tokenomics 2020-04-20 00:00:01 +0200

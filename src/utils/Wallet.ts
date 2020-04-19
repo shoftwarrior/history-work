@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bugfix: fix issue with form validation 2020-04-19 00:00:07 +0200
-=======
-feature: implement admin dashboard 2020-04-19 00:00:08 +0200
->>>>>>> feature
+main: implement basic tokenomics 2020-04-20 00:00:01 +0200
