@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-merge: integrate changes from feature branch 2020-05-17 00:00:06 +0200
-=======
-feature: implement additional fixes related to bug 2020-05-08 00:00:00 +0200
->>>>>>> bugfix
-=======
-ui: implement new dashboard design 2020-05-08 00:00:02 +0200
->>>>>>> feature
+docs: document main branch changes 2020-05-01 00:00:01 +0200
