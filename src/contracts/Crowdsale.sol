@@ -1,1 +1,1 @@
-test: add main branch unit tests 2020-05-11 00:00:04 +0200
+main: implement basic tokenomics 2020-05-01 00:00:00 +0200
