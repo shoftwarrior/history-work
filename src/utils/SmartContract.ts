@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2020-05-11 00:00:01 +0200
+feature: add search functionality 2020-05-04 00:00:01 +0200
