@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-05-01 00:00:00 +0200
+chore: bump version to v1.0.0 2020-05-04 00:00:00 +0200
