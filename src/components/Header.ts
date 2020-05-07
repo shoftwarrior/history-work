@@ -1,1 +1,1 @@
-user-story: enhance user security features 2020-05-24 00:00:09 +0200
+version: bump to v1.2.0 for user story release 2020-05-08 00:00:03 +0200

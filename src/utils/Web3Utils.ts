@@ -1,1 +1,1 @@
-refactor: optimize code for user story 2020-05-17 00:00:05 +0200
+version: bump to v1.2.0 for user story release 2020-05-08 00:00:03 +0200
