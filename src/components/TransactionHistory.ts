@@ -1,1 +1,1 @@
-ui: finalize UI adjustments for release 2020-09-09 00:00:03 +0200
+release: announce v1.0.0 release 2020-05-11 00:00:03 +0200
