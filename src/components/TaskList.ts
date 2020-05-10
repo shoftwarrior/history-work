@@ -1,1 +1,1 @@
-main: configure decentralized storage 2020-05-08 00:00:09 +0200
+main: optimize gas consumption 2020-05-11 00:00:09 +0200
