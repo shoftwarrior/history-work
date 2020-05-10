@@ -1,1 +1,1 @@
-main: configure decentralized storage 2020-05-08 00:00:09 +0200
+docs: update project README 2020-05-11 00:00:00 +0200
