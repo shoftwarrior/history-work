@@ -1,1 +1,1 @@
-bug: fix database connection issue 2020-05-19 00:00:06 +0200
+bug: address validation error in form 2020-05-11 00:00:07 +0200
