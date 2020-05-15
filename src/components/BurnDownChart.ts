@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-05-16 00:00:04 +0200
+bugfix: address issues reported in feature 2020-05-16 00:00:09 +0200
