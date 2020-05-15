@@ -1,1 +1,1 @@
-ui: redesign user interface for user story 2020-05-22 00:00:06 +0200
+config: configure user story settings 2020-05-16 00:00:01 +0200
