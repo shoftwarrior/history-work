@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2020-05-16 00:00:00 +0200
+main: set up smart contract infrastructure 2020-05-16 00:00:07 +0200
