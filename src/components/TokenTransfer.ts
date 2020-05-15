@@ -1,1 +1,1 @@
-hotfix: address performance issue 2020-11-23 00:00:06 +0200
+hotfix: resolve issue with decentralized exchange 2020-05-16 00:00:05 +0200
