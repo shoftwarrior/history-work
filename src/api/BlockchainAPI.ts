@@ -1,1 +1,1 @@
-feat: integrate third-party API 2020-06-01 00:00:06 +0200
+merge: integrate changes from user-story branch 2020-05-16 00:00:02 +0200
