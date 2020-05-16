@@ -1,1 +1,1 @@
-feature: add search functionality 2020-05-25 00:00:08 +0200
+refactor: optimize code for performance 2020-05-17 00:00:08 +0200
