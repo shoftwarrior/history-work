@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2020-05-17 00:00:01 +0200
+refactor: optimize main module 2020-05-17 00:00:02 +0200
