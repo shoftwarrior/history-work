@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2020-05-22 00:00:07 +0200
+feat: implement user registration 2020-05-17 00:00:03 +0200
