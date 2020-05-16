@@ -1,1 +1,1 @@
-refactor: optimize code for user story 2020-05-17 00:00:05 +0200
+docs: update user story documentation 2020-05-17 00:00:09 +0200

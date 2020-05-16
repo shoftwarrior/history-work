@@ -1,1 +1,1 @@
-test: write tests for user story scenarios 2020-05-24 00:00:04 +0200
+docs: update user story documentation 2020-05-17 00:00:09 +0200
