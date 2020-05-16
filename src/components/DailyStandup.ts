@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2020-05-17 00:00:04 +0200
+ci: configure continuous integration pipeline 2020-05-17 00:00:07 +0200
