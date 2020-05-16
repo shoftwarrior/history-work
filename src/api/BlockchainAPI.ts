@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2020-05-16 00:00:07 +0200
+bugfix: fix issue with form validation 2020-05-17 00:00:01 +0200

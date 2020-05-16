@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: update documentation 2020-05-16 00:00:03 +0200
-=======
-hotfix: resolve issue with decentralized exchange 2020-05-16 00:00:05 +0200
->>>>>>> hotfix
+bugfix: fix issue with form validation 2020-05-17 00:00:01 +0200

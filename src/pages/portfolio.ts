@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2020-05-16 00:00:08 +0200
+bugfix: fix issue with form validation 2020-05-17 00:00:01 +0200
