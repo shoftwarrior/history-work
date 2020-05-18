@@ -1,1 +1,1 @@
-refactor: optimize database queries 2020-05-19 00:00:01 +0200
+main: implement basic tokenomics 2020-05-19 00:00:17 +0200
