@@ -1,1 +1,1 @@
-ui: polish user interface for release 2020-07-20 00:00:01 +0200
+refactor: optimize code for final release 2020-05-19 00:00:00 +0200

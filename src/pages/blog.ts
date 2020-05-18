@@ -1,1 +1,1 @@
-release: tag version 3.0.0 2020-06-16 00:00:04 +0200
+refactor: optimize code for final release 2020-05-19 00:00:00 +0200
