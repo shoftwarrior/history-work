@@ -1,1 +1,1 @@
-feature: integrate decentralized exchange 2020-06-19 00:00:02 +0200
+test: write integration tests for feature 2020-05-19 00:00:05 +0200
