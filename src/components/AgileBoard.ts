@@ -1,1 +1,1 @@
-test: write integration tests for feature 2020-06-01 00:00:07 +0200
+feat: implement user registration 2020-05-20 00:00:02 +0200
