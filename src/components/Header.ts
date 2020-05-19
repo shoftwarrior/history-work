@@ -1,1 +1,1 @@
-bug: fix database connection issue 2020-05-19 00:00:06 +0200
+docs: update bugfix documentation 2020-05-20 00:00:03 +0200

@@ -1,1 +1,1 @@
-bugfix: address UI/UX bugs in the dApp 2020-06-19 00:00:06 +0200
+docs: update bugfix documentation 2020-05-20 00:00:03 +0200

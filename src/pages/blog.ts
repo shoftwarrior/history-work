@@ -1,1 +1,1 @@
-bug: resolve compatibility issues 2020-09-08 00:00:01 +0200
+docs: update bugfix documentation 2020-05-20 00:00:03 +0200

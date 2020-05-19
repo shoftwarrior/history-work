@@ -1,1 +1,1 @@
-bugfix: patch potential flash loan exploit 2020-06-01 00:00:00 +0200
+docs: update bugfix documentation 2020-05-20 00:00:03 +0200
