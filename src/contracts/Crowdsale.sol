@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-05-19 00:00:09 +0200
+main: integrate decentralized oracle service 2020-05-20 00:00:01 +0200
