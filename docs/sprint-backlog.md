@@ -1,1 +1,1 @@
-test: add main branch unit tests 2020-05-20 00:00:00 +0200
+main: integrate decentralized oracle service 2020-05-22 00:00:05 +0200
