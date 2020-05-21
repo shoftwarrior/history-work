@@ -1,1 +1,1 @@
-feat: implement user registration 2020-05-20 00:00:02 +0200
+bugfix: address issues reported in feature 2020-05-22 00:00:02 +0200
