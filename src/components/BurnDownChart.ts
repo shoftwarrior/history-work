@@ -1,1 +1,1 @@
-test: add main branch unit tests 2020-05-20 00:00:00 +0200
+style: format code according to style guide 2020-05-22 00:00:04 +0200

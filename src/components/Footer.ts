@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-05-22 00:00:01 +0200
+style: format code according to style guide 2020-05-22 00:00:04 +0200
