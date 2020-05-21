@@ -1,1 +1,1 @@
-version: bump to v2.0.0 for feature release 2020-06-18 00:00:02 +0200
+feat: add notification system 2020-05-22 00:00:08 +0200
