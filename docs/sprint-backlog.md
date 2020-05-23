@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2020-05-22 00:00:09 +0200
+docs: update project README 2020-05-24 00:00:08 +0200

@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2020-05-24 00:00:07 +0200
+docs: update project README 2020-05-24 00:00:08 +0200
