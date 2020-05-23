@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2020-05-24 00:00:00 +0200
+ci: configure continuous integration pipeline 2020-05-24 00:00:07 +0200
