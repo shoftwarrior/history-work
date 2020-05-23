@@ -1,1 +1,1 @@
-ui: redesign user interface for user story 2020-05-22 00:00:06 +0200
+test: write tests for user story scenarios 2020-05-24 00:00:04 +0200
