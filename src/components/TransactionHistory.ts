@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2020-05-22 00:00:07 +0200
+version: bump to v2.0.0 for feature release 2020-05-24 00:00:05 +0200
