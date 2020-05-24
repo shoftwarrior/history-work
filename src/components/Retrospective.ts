@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-merge: integrate changes from feature branch 2020-05-24 00:00:00 +0200
-=======
-docs: update bugfix documentation 2020-05-20 00:00:03 +0200
->>>>>>> bugfix
+main: initialize DeFi project 2020-05-25 00:00:02 +0200
