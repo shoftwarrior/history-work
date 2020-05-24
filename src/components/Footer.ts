@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-chore: bump version to v1.0.0 2020-05-22 00:00:09 +0200
-=======
-bug: fix database connection issue 2020-05-19 00:00:06 +0200
->>>>>>> bugfix
-=======
-feat: add notification system 2020-05-22 00:00:08 +0200
->>>>>>> feature
+main: update documentation 2020-05-25 00:00:09 +0200
