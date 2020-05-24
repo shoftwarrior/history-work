@@ -1,1 +1,1 @@
-ci: configure continuous integration 2020-05-25 00:00:04 +0200
+bugfix: fix issue with form validation 2020-05-25 00:00:05 +0200
