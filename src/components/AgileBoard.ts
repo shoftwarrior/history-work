@@ -1,1 +1,1 @@
-main: initialize DeFi project 2020-05-25 00:00:02 +0200
+ci: configure continuous integration 2020-05-25 00:00:04 +0200

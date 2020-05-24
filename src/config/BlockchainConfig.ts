@@ -1,1 +1,1 @@
-docs: update project README 2020-05-24 00:00:08 +0200
+ci: configure continuous integration 2020-05-25 00:00:04 +0200
