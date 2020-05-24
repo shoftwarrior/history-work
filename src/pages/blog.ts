@@ -1,1 +1,1 @@
-feat: introduce dark mode 2020-05-24 00:00:01 +0200
+refactor: optimize code for performance 2020-05-25 00:00:03 +0200
