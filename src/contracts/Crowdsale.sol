@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: configure decentralized storage 2020-06-22 00:00:02 +0200
-=======
-refactor: improve code related to bugfix 2020-06-28 00:00:05 +0200
->>>>>>> bugfix
+docs: update project documentation 2020-06-01 00:00:03 +0200
