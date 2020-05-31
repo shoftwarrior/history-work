@@ -1,1 +1,1 @@
-test: add unit tests for core functionality 2020-06-22 00:00:04 +0200
+docs: document main branch changes 2020-06-01 00:00:01 +0200

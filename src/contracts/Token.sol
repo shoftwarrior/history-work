@@ -1,1 +1,1 @@
-ui: enhance homepage layout 2020-06-22 00:00:03 +0200
+docs: document main branch changes 2020-06-01 00:00:01 +0200

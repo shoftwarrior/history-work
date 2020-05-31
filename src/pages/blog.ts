@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2020-06-22 00:00:06 +0200
+docs: document main branch changes 2020-06-01 00:00:01 +0200
