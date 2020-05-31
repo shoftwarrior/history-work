@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2020-06-16 00:00:06 +0200
+ui: implement new dashboard design 2020-06-01 00:00:02 +0200
