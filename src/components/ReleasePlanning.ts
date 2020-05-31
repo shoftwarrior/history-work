@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2020-06-22 00:00:01 +0200
+test: write integration tests for feature 2020-06-01 00:00:07 +0200
