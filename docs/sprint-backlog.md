@@ -1,1 +1,1 @@
-bugfix: address critical issues before release 2020-09-09 00:00:02 +0200
+test: perform release testing 2020-06-16 00:00:03 +0200

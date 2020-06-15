@@ -1,1 +1,1 @@
-docs: update release notes 2020-06-28 00:00:09 +0200
+test: perform release testing 2020-06-16 00:00:03 +0200
