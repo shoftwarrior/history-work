@@ -1,1 +1,1 @@
-docs: document main branch changes 2020-06-18 00:00:00 +0200
+config: update deployment settings 2020-06-18 00:00:01 +0200

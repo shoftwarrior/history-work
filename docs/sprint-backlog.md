@@ -1,1 +1,1 @@
-main: initialize DeFi project 2020-06-16 00:00:09 +0200
+config: update deployment settings 2020-06-18 00:00:01 +0200
