@@ -1,1 +1,1 @@
-main: initialize DeFi project 2020-06-16 00:00:09 +0200
+docs: document main branch changes 2020-06-18 00:00:00 +0200
