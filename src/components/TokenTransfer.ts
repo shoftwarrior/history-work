@@ -1,1 +1,1 @@
-bugfix: fix user-related issues 2020-09-07 00:00:01 +0200
+refactor: optimize code for user story 2020-06-18 00:00:03 +0200
