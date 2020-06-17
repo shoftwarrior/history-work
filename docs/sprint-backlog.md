@@ -1,1 +1,1 @@
-feature: implement yield farming mechanism 2020-06-28 00:00:00 +0200
+version: bump to v2.0.0 for feature release 2020-06-18 00:00:02 +0200
