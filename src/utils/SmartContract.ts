@@ -1,1 +1,1 @@
-version: bump to v2.0.0 for feature release 2020-06-18 00:00:02 +0200
+refactor: optimize code for performance 2020-06-19 00:00:08 +0200
