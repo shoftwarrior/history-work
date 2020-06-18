@@ -1,1 +1,1 @@
-config: update deployment settings 2020-06-18 00:00:01 +0200
+style: format code according to style guide 2020-06-19 00:00:03 +0200
