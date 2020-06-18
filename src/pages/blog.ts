@@ -1,1 +1,1 @@
-feature: implement user authentication 2020-06-19 00:00:01 +0200
+ci: configure continuous integration pipeline 2020-06-19 00:00:05 +0200
