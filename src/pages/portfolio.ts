@@ -1,1 +1,1 @@
-refactor: improve code related to bugfix 2020-06-28 00:00:05 +0200
+bugfix: address UI/UX bugs in the dApp 2020-06-19 00:00:06 +0200
