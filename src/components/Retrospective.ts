@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2020-06-16 00:00:06 +0200
+refactor: optimize code for performance 2020-06-19 00:00:07 +0200
