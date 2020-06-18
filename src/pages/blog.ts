@@ -1,1 +1,1 @@
-config: update deployment settings 2020-06-18 00:00:01 +0200
+main: refactor smart contract logic 2020-06-19 00:00:00 +0200
