@@ -1,1 +1,1 @@
-feature: implement additional fixes related to bug 2020-07-31 00:00:01 +0200
+bug: fix database connection issue 2020-06-22 00:00:09 +0200
