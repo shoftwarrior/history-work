@@ -1,1 +1,1 @@
-test: add unit tests for core functionality 2020-06-22 00:00:04 +0200
+bugfix: fix issue with form validation 2020-06-22 00:00:06 +0200
