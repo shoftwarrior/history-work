@@ -1,1 +1,1 @@
-main: configure decentralized storage 2020-06-19 00:00:04 +0200
+main: configure decentralized storage 2020-06-22 00:00:02 +0200
