@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2020-06-22 00:00:05 +0200
+main: set up smart contract infrastructure 2020-06-22 00:00:07 +0200

@@ -1,1 +1,1 @@
-ui: enhance homepage layout 2020-06-22 00:00:03 +0200
+main: set up smart contract infrastructure 2020-06-22 00:00:07 +0200
