@@ -1,1 +1,1 @@
-chore: initial project setup 2020-06-23 00:00:08 +0200
+config: update deployment settings 2020-06-23 00:00:09 +0200
