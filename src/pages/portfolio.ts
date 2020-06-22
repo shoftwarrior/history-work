@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2020-06-23 00:00:00 +0200
+feature: enhance user authentication 2020-06-23 00:00:04 +0200
