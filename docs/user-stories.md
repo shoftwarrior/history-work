@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2020-07-18 00:00:00 +0200
+style: format code according to style guide 2020-06-23 00:00:06 +0200

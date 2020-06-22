@@ -1,1 +1,1 @@
-chore: initial project setup 2020-06-23 00:00:03 +0200
+style: format code according to style guide 2020-06-23 00:00:06 +0200
