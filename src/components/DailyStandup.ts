@@ -1,1 +1,1 @@
-version: bump to v2.0.0 for feature release 2020-06-23 00:00:02 +0200
+ui: improve user interface for feature 2020-06-24 00:00:00 +0200
