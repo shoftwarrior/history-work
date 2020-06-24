@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2020-06-24 00:00:00 +0200
+docs: document new feature in README 2020-06-25 00:00:01 +0200
