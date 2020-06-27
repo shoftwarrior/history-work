@@ -1,1 +1,1 @@
-config: update deployment settings 2020-06-23 00:00:09 +0200
+bugfix: fix issue with form validation 2020-06-28 00:00:03 +0200
