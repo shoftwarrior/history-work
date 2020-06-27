@@ -1,1 +1,1 @@
-style: format code according to style guide 2020-06-23 00:00:06 +0200
+version: bump to v1.1.0 2020-06-28 00:00:01 +0200

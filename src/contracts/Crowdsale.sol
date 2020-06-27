@@ -1,1 +1,1 @@
-docs: update project documentation 2020-06-25 00:00:00 +0200
+version: bump to v1.1.0 2020-06-28 00:00:01 +0200
