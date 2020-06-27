@@ -1,1 +1,1 @@
-feat: add notification system 2020-07-22 00:00:07 +0200
+feature: implement yield farming mechanism 2020-06-28 00:00:00 +0200
