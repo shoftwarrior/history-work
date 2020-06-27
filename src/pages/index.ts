@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-06-25 00:00:01 +0200
+feat: implement user registration 2020-06-28 00:00:02 +0200
