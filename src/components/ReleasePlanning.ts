@@ -1,1 +1,1 @@
-version: bump to v1.1.1 for bugfix release 2020-09-01 00:00:03 +0200
+refactor: improve code related to bugfix 2020-06-28 00:00:05 +0200

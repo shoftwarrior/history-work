@@ -1,1 +1,1 @@
-bugfix: resolve issue with governance smart contract 2020-08-25 00:00:00 +0200
+refactor: improve code related to bugfix 2020-06-28 00:00:05 +0200

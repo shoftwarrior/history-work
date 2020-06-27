@@ -1,1 +1,1 @@
-feature: implement additional fixes related to bug 2020-07-31 00:00:01 +0200
+refactor: improve code related to bugfix 2020-06-28 00:00:05 +0200
