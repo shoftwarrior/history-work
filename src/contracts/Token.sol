@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-06-29 00:00:05 +0200
+feature: implement user authentication 2020-06-29 00:00:06 +0200
