@@ -1,1 +1,1 @@
-refactor: optimize database queries 2020-06-28 00:00:08 +0200
+chore: initial project setup 2020-06-29 00:00:02 +0200
