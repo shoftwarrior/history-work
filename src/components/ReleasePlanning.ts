@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-chore: initial project setup 2020-06-23 00:00:03 +0200
-=======
-feature: implement yield farming mechanism 2020-06-23 00:00:05 +0200
->>>>>>> feature
-=======
-docs: document new feature in README 2020-06-25 00:00:01 +0200
->>>>>>> feature
-=======
-feature: enable flash loans 2020-06-28 00:00:06 +0200
->>>>>>> feature
+main: optimize gas consumption 2020-06-29 00:00:07 +0200
