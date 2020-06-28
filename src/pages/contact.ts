@@ -1,1 +1,1 @@
-chore: initial project setup 2020-06-29 00:00:02 +0200
+ci: configure continuous integration 2020-06-29 00:00:03 +0200
