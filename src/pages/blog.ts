@@ -1,1 +1,1 @@
-config: update deployment settings 2020-07-22 00:00:17 +0200
+test: add unit tests for core functionality 2020-07-16 00:00:01 +0200

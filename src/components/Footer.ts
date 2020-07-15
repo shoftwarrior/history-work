@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-feature: implement user authentication 2020-07-22 00:00:15 +0200
-=======
-bugfix: fix user-related issues 2020-07-22 00:00:11 +0200
->>>>>>> user-story
+test: add unit tests for core functionality 2020-07-16 00:00:01 +0200
