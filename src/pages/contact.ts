@@ -1,1 +1,1 @@
-config: update deployment settings 2020-07-22 00:00:17 +0200
+docs: update project README 2020-07-16 00:00:02 +0200
