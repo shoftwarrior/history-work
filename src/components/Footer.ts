@@ -1,1 +1,1 @@
-ui: enhance homepage layout 2020-07-17 00:00:00 +0200
+docs: update project documentation 2020-07-17 00:00:02 +0200
