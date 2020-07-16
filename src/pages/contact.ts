@@ -1,1 +1,1 @@
-user-story: add transaction history 2020-08-21 00:00:11 +0200
+user-story: implement user notifications 2020-07-17 00:00:03 +0200
