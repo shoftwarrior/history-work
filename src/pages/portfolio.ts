@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2020-07-23 00:00:00 +0200
+ui: implement new dashboard design 2020-07-18 00:00:01 +0200
