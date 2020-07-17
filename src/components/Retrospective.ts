@@ -1,1 +1,1 @@
-ui: enhance homepage layout 2020-07-17 00:00:00 +0200
+chore: bump version to v1.0.0 2020-07-18 00:00:00 +0200

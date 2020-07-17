@@ -1,1 +1,1 @@
-refactor: optimize main module 2020-07-22 00:00:14 +0200
+chore: bump version to v1.0.0 2020-07-18 00:00:00 +0200
