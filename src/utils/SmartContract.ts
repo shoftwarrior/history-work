@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-07-19 00:00:00 +0200
+docs: document main branch changes 2020-07-19 00:00:03 +0200
