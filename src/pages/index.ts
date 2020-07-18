@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ci: configure continuous integration 2020-07-18 00:00:02 +0200
-=======
-feature: add search functionality 2020-07-18 00:00:03 +0200
->>>>>>> feature
+ci: configure continuous integration pipeline 2020-07-19 00:00:01 +0200
