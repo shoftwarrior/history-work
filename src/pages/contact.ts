@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-docs: update project README 2020-07-16 00:00:02 +0200
-=======
-user-story: implement user notifications 2020-07-17 00:00:03 +0200
->>>>>>> user-story
+main: optimize gas consumption 2020-07-19 00:00:07 +0200
