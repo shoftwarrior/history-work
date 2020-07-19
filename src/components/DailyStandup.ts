@@ -1,1 +1,1 @@
-feature: add search functionality 2020-07-18 00:00:03 +0200
+feature: add search functionality 2020-07-20 00:00:07 +0200
