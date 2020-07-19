@@ -1,1 +1,1 @@
-docs: document main branch changes 2020-07-20 00:00:06 +0200
+style: format code according to style guide 2020-07-20 00:00:08 +0200
