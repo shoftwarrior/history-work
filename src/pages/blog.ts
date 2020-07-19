@@ -1,1 +1,1 @@
-feature: implement yield farming mechanism 2020-08-09 00:00:00 +0200
+feature: add liquidity mining feature 2020-07-20 00:00:02 +0200
