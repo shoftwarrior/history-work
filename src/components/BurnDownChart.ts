@@ -1,1 +1,1 @@
-ui: polish user interface for release 2020-10-11 00:00:09 +0200
+ui: polish user interface for release 2020-07-20 00:00:01 +0200

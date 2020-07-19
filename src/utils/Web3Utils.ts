@@ -1,1 +1,1 @@
-bugfix: address critical issues before release 2020-09-09 00:00:02 +0200
+ui: polish user interface for release 2020-07-20 00:00:01 +0200
