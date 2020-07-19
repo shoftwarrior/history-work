@@ -1,1 +1,1 @@
-style: format code according to style guide 2020-07-20 00:00:08 +0200
+ui: enhance homepage layout 2020-07-20 00:00:09 +0200
