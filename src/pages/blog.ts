@@ -1,1 +1,1 @@
-refactor: optimize main module 2020-07-22 00:00:14 +0200
+config: update deployment settings 2020-07-22 00:00:17 +0200
