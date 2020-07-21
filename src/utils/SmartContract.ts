@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-07-22 00:00:06 +0200
+ci: configure continuous integration 2020-07-22 00:00:09 +0200
