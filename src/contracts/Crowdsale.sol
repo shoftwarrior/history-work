@@ -1,1 +1,1 @@
-feature: add search functionality 2020-08-07 00:00:01 +0200
+feat: add notification system 2020-07-22 00:00:07 +0200
