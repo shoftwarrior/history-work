@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2020-07-29 00:00:03 +0200
+docs: document main branch changes 2020-07-22 00:00:01 +0200
