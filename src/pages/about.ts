@@ -1,1 +1,1 @@
-test: write integration tests for feature 2020-07-22 00:00:02 +0200
+feature: add search functionality 2020-07-22 00:00:10 +0200

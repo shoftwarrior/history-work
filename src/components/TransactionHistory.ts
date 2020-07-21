@@ -1,1 +1,1 @@
-feature: add insurance protocol 2020-08-24 00:00:03 +0200
+feature: add search functionality 2020-07-22 00:00:10 +0200
