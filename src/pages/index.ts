@@ -1,1 +1,1 @@
-config: adjust settings for bugfix 2020-08-07 00:00:00 +0200
+bugfix: resolve liquidity mining issues 2020-07-22 00:00:05 +0200
