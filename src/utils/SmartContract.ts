@@ -1,1 +1,1 @@
-docs: document main branch changes 2020-07-22 00:00:01 +0200
+main: implement basic tokenomics 2020-07-22 00:00:06 +0200
