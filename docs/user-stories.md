@@ -1,1 +1,1 @@
-config: adjust settings for bugfix 2020-08-07 00:00:00 +0200
+docs: update bugfix documentation 2020-07-23 00:00:03 +0200
