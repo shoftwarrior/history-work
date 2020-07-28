@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-feature: implement user authentication 2020-08-09 00:00:03 +0200
-=======
-feat: implement user registration 2020-08-09 00:00:05 +0200
->>>>>>> feature
+main: update documentation 2020-07-29 00:00:02 +0200
