@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2020-11-23 00:00:12 +0200
+feature: implement additional fixes related to bug 2020-07-31 00:00:01 +0200

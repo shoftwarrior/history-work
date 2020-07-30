@@ -1,1 +1,1 @@
-config: adjust settings for bugfix 2020-08-07 00:00:00 +0200
+feature: implement additional fixes related to bug 2020-07-31 00:00:01 +0200

@@ -1,1 +1,1 @@
-bugfix: optimize gas usage in lending protocol 2020-09-30 00:00:09 +0200
+feature: implement additional fixes related to bug 2020-07-31 00:00:01 +0200

@@ -1,1 +1,1 @@
-version: bump to v1.1.1 for bugfix release 2020-09-01 00:00:03 +0200
+feature: implement additional fixes related to bug 2020-07-31 00:00:01 +0200
