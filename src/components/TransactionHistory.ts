@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2020-07-29 00:00:03 +0200
+test: add unit tests for core functionality 2020-07-31 00:00:00 +0200

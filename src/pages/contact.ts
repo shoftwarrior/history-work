@@ -1,1 +1,1 @@
-refactor: optimize database queries 2020-07-29 00:00:00 +0200
+test: add unit tests for core functionality 2020-07-31 00:00:00 +0200
