@@ -1,1 +1,1 @@
-user-story: enhance user preferences 2020-08-21 00:00:13 +0200
+user-story: integrate social media login 2020-08-05 00:00:00 +0200
