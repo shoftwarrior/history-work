@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-merge: integrate changes from feature branch 2020-08-12 00:00:02 +0200
-=======
-feature: implement admin dashboard 2020-08-24 00:00:04 +0200
->>>>>>> feature
+docs: document main branch changes 2020-08-05 00:00:01 +0200
