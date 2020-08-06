@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2020-08-07 00:00:03 +0200
+version: bump to v1.1.0 2020-08-07 00:00:05 +0200
