@@ -1,1 +1,1 @@
-docs: document main branch changes 2020-08-05 00:00:01 +0200
+main: refactor smart contract logic 2020-08-07 00:00:03 +0200
