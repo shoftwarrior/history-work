@@ -1,1 +1,1 @@
-user-story: add transaction history 2020-08-21 00:00:11 +0200
+merge: integrate changes from bugfix branch 2020-08-07 00:00:06 +0200
