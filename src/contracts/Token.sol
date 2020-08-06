@@ -1,1 +1,1 @@
-feature: add search functionality 2020-08-07 00:00:01 +0200
+feature: add liquidity mining feature 2020-08-07 00:00:09 +0200
