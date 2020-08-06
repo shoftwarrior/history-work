@@ -1,1 +1,1 @@
-docs: update project documentation 2020-08-07 00:00:02 +0200
+chore: initial project setup 2020-08-07 00:00:08 +0200
