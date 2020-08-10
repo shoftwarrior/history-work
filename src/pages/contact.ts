@@ -1,1 +1,1 @@
-bugfix: address UI/UX bugs in the dApp 2020-09-30 00:00:07 +0200
+bugfix: resolve liquidity mining issues 2020-08-11 00:00:00 +0200
