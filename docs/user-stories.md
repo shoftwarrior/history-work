@@ -1,1 +1,1 @@
-refactor: optimize database queries 2020-08-22 00:00:10 +0200
+config: update deployment settings 2020-08-11 00:00:01 +0200

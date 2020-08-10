@@ -1,1 +1,1 @@
-main: configure decentralized storage 2020-08-23 00:00:02 +0200
+config: update deployment settings 2020-08-11 00:00:01 +0200
