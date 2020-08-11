@@ -1,1 +1,1 @@
-config: update deployment settings 2020-08-11 00:00:01 +0200
+ui: enhance homepage layout 2020-08-12 00:00:01 +0200
