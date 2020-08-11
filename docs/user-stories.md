@@ -1,1 +1,1 @@
-config: update deployment settings 2020-08-11 00:00:01 +0200
+merge: integrate changes from feature branch 2020-08-12 00:00:02 +0200
