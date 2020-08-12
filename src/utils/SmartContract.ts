@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2020-08-12 00:00:02 +0200
+style: format code according to style guide 2020-08-13 00:00:01 +0200
