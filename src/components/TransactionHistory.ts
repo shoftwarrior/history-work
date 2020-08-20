@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-refactor: optimize main module 2020-09-07 00:00:04 +0200
-=======
-bugfix: resolve issue with governance smart contract 2020-08-25 00:00:00 +0200
->>>>>>> bugfix
+version: bump to v1.1.0 2020-08-21 00:00:06 +0200
