@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2020-08-21 00:00:07 +0200
+docs: update project documentation 2020-08-21 00:00:09 +0200
