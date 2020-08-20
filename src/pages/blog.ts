@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2020-08-21 00:00:10 +0200
+ci: configure continuous integration 2020-08-21 00:00:14 +0200

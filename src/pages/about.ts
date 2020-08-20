@@ -1,1 +1,1 @@
-feature: implement user authentication 2020-08-21 00:00:12 +0200
+ci: configure continuous integration 2020-08-21 00:00:14 +0200
