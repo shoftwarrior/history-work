@@ -1,1 +1,1 @@
-hotfix: patch security vulnerability 2020-09-30 00:00:03 +0200
+hotfix: address gas inefficiencies in staking mechanism 2020-08-22 00:00:01 +0200

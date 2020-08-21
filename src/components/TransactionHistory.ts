@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ci: configure continuous integration pipeline 2020-11-23 00:00:01 +0200
-=======
-feature: add insurance protocol 2020-11-23 00:00:04 +0200
->>>>>>> feature
+hotfix: address gas inefficiencies in staking mechanism 2020-08-22 00:00:01 +0200

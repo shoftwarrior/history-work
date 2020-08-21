@@ -1,1 +1,1 @@
-hotfix: address performance issue 2020-11-23 00:00:06 +0200
+hotfix: address gas inefficiencies in staking mechanism 2020-08-22 00:00:01 +0200
