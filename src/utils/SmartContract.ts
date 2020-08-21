@@ -1,1 +1,1 @@
-feature: add insurance protocol 2020-09-07 00:00:07 +0200
+feature: enable flash loans 2020-08-22 00:00:12 +0200
