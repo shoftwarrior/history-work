@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2020-08-21 00:00:07 +0200
+main: integrate with blockchain network 2020-08-22 00:00:05 +0200
