@@ -1,1 +1,1 @@
-user-story: implement user governance voting 2020-09-11 00:00:07 +0200
+user-story: optimize user experience 2020-08-22 00:00:08 +0200
