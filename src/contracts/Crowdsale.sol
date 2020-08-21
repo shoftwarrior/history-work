@@ -1,1 +1,1 @@
-refactor: optimize main module 2020-08-21 00:00:15 +0200
+main: refactor smart contract logic 2020-08-22 00:00:13 +0200
