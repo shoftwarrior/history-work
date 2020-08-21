@@ -1,1 +1,1 @@
-feature: add decentralized lending protocol 2020-08-22 00:00:02 +0200
+feature: add search functionality 2020-08-22 00:00:03 +0200
