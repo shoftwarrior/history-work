@@ -1,1 +1,1 @@
-feature: add search functionality 2020-09-05 00:00:05 +0200
+feat: integrate third-party API 2020-08-22 00:00:11 +0200
