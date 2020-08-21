@@ -1,1 +1,1 @@
-new: integrate payment gateway 2020-08-21 00:00:04 +0200
+feature: add decentralized lending protocol 2020-08-22 00:00:02 +0200
