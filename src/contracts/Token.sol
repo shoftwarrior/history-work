@@ -1,1 +1,1 @@
-feature: add search functionality 2020-08-22 00:00:03 +0200
+config: update feature-specific settings 2020-08-23 00:00:01 +0200
