@@ -1,1 +1,1 @@
-feat: integrate third-party API 2020-08-22 00:00:11 +0200
+feature: add insurance protocol 2020-08-24 00:00:03 +0200

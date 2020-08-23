@@ -1,1 +1,1 @@
-feat: add notification system 2020-08-23 00:00:03 +0200
+feature: add insurance protocol 2020-08-24 00:00:03 +0200
