@@ -1,1 +1,1 @@
-fix: address performance bottleneck 2020-11-21 00:00:03 +0200
+ui: address UI glitches in bugfix 2020-08-24 00:00:05 +0200
