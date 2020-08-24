@@ -1,1 +1,1 @@
-bug: address validation error in form 2020-09-08 00:00:00 +0200
+bugfix: resolve issue with governance smart contract 2020-08-25 00:00:00 +0200
