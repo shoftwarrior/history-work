@@ -1,1 +1,1 @@
-spike: research integration of decentralized identity verification 2020-10-30 00:00:07 +0200
+refactor: refactor code as a result of spike 2020-09-01 00:00:00 +0200

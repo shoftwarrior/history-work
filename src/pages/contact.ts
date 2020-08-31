@@ -1,1 +1,1 @@
-spike: research and experiment with Layer 2 scaling solutions 2020-10-10 00:00:01 +0200
+refactor: refactor code as a result of spike 2020-09-01 00:00:00 +0200
