@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2020-09-01 00:00:05 +0200
+config: update deployment settings 2020-09-05 00:00:02 +0200
