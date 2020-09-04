@@ -1,1 +1,1 @@
-ui: enhance homepage layout 2020-09-11 00:00:08 +0200
+version: bump to v1.1.0 2020-09-05 00:00:01 +0200

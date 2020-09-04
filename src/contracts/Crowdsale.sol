@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: update documentation 2020-09-11 00:00:02 +0200
-=======
-feature: implement governance module 2020-09-11 00:00:04 +0200
->>>>>>> feature
+version: bump to v1.1.0 2020-09-05 00:00:01 +0200
