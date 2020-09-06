@@ -1,1 +1,1 @@
-feat: implement user registration 2020-09-11 00:00:06 +0200
+feature: add insurance protocol 2020-09-07 00:00:07 +0200
