@@ -1,1 +1,1 @@
-fix: correct error in payment processing 2020-10-18 00:00:00 +0200
+bug: resolve compatibility issues 2020-09-08 00:00:01 +0200
