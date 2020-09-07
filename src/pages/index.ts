@@ -1,1 +1,1 @@
-user-story: resolve user-reported issues 2020-09-30 00:00:14 +0200
+user-story: integrate social media login 2020-09-08 00:00:03 +0200

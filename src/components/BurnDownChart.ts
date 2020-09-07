@@ -1,1 +1,1 @@
-user-story: improve user onboarding flow 2020-10-10 00:00:08 +0200
+user-story: integrate social media login 2020-09-08 00:00:03 +0200
