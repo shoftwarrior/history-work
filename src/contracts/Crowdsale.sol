@@ -1,1 +1,1 @@
-bugfix: optimize gas usage in lending protocol 2020-09-30 00:00:09 +0200
+bug: address validation error in form 2020-09-08 00:00:00 +0200

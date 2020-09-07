@@ -1,1 +1,1 @@
-bugfix: address UI/UX bugs in the dApp 2020-09-30 00:00:07 +0200
+bug: address validation error in form 2020-09-08 00:00:00 +0200

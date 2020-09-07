@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2020-12-02 00:00:05 +0200
+bug: address validation error in form 2020-09-08 00:00:00 +0200
