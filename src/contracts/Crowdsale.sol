@@ -1,1 +1,1 @@
-release: update dependencies for release 2020-11-20 00:00:07 +0200
+ui: finalize UI adjustments for release 2020-09-09 00:00:03 +0200
