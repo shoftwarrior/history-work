@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: integrate with blockchain network 2020-09-30 00:00:13 +0200
-=======
-feature: implement admin dashboard 2020-09-30 00:00:16 +0200
->>>>>>> feature
+ui: enhance homepage layout 2020-09-09 00:00:01 +0200
