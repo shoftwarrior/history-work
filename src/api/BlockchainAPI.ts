@@ -1,1 +1,1 @@
-user-story: resolve user-reported issues 2020-09-30 00:00:14 +0200
+ui: enhance user experience in user story 2020-09-09 00:00:05 +0200
