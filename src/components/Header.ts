@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-10-01 00:00:03 +0200
+ci: configure continuous integration pipeline 2020-09-09 00:00:00 +0200
