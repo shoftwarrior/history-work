@@ -1,1 +1,1 @@
-user-story: integrate social media login 2020-09-08 00:00:03 +0200
+user-story: implement user notifications 2020-09-09 00:00:06 +0200
