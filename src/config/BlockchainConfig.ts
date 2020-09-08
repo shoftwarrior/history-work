@@ -1,1 +1,1 @@
-feature: implement admin dashboard 2020-09-30 00:00:16 +0200
+config: update feature-specific settings 2020-09-09 00:00:07 +0200

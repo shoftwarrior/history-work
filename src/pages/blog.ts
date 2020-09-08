@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2020-10-01 00:00:01 +0200
+config: update feature-specific settings 2020-09-09 00:00:07 +0200
