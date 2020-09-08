@@ -1,1 +1,1 @@
-release: update release notes 2020-09-30 00:00:00 +0200
+bugfix: address critical issues before release 2020-09-09 00:00:02 +0200
