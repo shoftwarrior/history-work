@@ -1,1 +1,1 @@
-feature: implement governance module 2020-10-11 00:00:07 +0200
+feature: add search functionality 2020-09-10 00:00:05 +0200
