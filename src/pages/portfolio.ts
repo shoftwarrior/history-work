@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2020-09-09 00:00:00 +0200
+ui: enhance homepage layout 2020-09-11 00:00:08 +0200
