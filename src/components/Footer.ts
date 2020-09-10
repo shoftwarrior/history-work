@@ -1,1 +1,1 @@
-config: update feature-specific settings 2020-09-08 00:00:02 +0200
+feature: enable decentralized identity verification 2020-09-11 00:00:09 +0200

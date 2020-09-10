@@ -1,1 +1,1 @@
-feat: implement user registration 2020-09-11 00:00:06 +0200
+feature: enable decentralized identity verification 2020-09-11 00:00:09 +0200
