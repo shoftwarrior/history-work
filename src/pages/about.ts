@@ -1,1 +1,1 @@
-merge: integrate changes from bugfix branch 2020-09-10 00:00:02 +0200
+user-story: implement user governance voting 2020-09-11 00:00:07 +0200

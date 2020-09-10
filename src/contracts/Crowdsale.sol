@@ -1,1 +1,1 @@
-user-story: integrate social media login 2020-09-08 00:00:03 +0200
+user-story: implement user governance voting 2020-09-11 00:00:07 +0200
