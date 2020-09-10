@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-09-10 00:00:08 +0200
+test: add unit tests for core functionality 2020-09-11 00:00:01 +0200

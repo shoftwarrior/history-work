@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ui: enhance homepage layout 2020-10-02 00:00:05 +0200
-=======
-config: update feature-specific settings 2020-09-08 00:00:02 +0200
->>>>>>> feature
+test: add unit tests for core functionality 2020-09-11 00:00:01 +0200

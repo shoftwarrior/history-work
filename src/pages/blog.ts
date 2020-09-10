@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: implement basic tokenomics 2020-10-01 00:00:03 +0200
-=======
-feature: add search functionality 2020-09-10 00:00:05 +0200
->>>>>>> feature
+test: add unit tests for core functionality 2020-09-11 00:00:01 +0200

@@ -1,1 +1,1 @@
-main: optimize gas consumption 2020-09-11 00:00:00 +0200
+test: add unit tests for core functionality 2020-09-11 00:00:01 +0200
