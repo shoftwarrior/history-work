@@ -1,1 +1,1 @@
-feature: add decentralized lending protocol 2020-10-02 00:00:02 +0200
+feature: implement governance module 2020-09-11 00:00:04 +0200
