@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-10-11 00:00:14 +0200
+chore: bump version to v1.0.0 2020-09-29 00:00:00 +0200
