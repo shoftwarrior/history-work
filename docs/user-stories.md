@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2020-09-30 00:00:02 +0200
+main: refactor smart contract logic 2020-09-30 00:00:12 +0200
