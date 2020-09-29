@@ -1,1 +1,1 @@
-bugfix: patch potential flash loan exploit 2020-10-10 00:00:02 +0200
+bugfix: optimize gas usage in lending protocol 2020-09-30 00:00:09 +0200
