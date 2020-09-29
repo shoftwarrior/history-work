@@ -1,1 +1,1 @@
-ui: enhance homepage layout 2020-10-11 00:00:17 +0200
+main: integrate decentralized oracle service 2020-09-30 00:00:02 +0200
