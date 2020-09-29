@@ -1,1 +1,1 @@
-bugfix: patch potential flash loan exploit 2020-10-10 00:00:02 +0200
+bugfix: address UI/UX bugs in the dApp 2020-09-30 00:00:07 +0200

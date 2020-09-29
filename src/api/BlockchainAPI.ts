@@ -1,1 +1,1 @@
-fix: correct error in payment processing 2020-10-18 00:00:00 +0200
+bugfix: address UI/UX bugs in the dApp 2020-09-30 00:00:07 +0200

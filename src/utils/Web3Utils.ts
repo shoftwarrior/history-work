@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2020-11-23 00:00:12 +0200
+bugfix: address UI/UX bugs in the dApp 2020-09-30 00:00:07 +0200
