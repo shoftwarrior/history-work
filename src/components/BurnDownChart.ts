@@ -1,1 +1,1 @@
-feature: implement governance module 2020-10-11 00:00:11 +0200
+bugfix: address issues reported in feature 2020-10-01 00:00:01 +0200
