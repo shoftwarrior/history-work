@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-10-01 00:00:03 +0200
+main: refactor smart contract logic 2020-10-02 00:00:04 +0200
