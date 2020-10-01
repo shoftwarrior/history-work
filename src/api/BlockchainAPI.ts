@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2020-09-30 00:00:12 +0200
+config: update deployment settings 2020-10-02 00:00:03 +0200
