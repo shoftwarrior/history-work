@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2020-10-01 00:00:01 +0200
+docs: document new feature in README 2020-10-02 00:00:00 +0200
