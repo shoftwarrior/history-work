@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2020-10-02 00:00:04 +0200
+ui: enhance homepage layout 2020-10-02 00:00:05 +0200
