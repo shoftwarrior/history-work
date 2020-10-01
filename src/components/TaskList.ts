@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-10-11 00:00:13 +0200
+feature: add decentralized lending protocol 2020-10-02 00:00:02 +0200
