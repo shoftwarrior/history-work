@@ -1,1 +1,1 @@
-feat: add notification system 2020-10-31 00:00:00 +0200
+feature: enable decentralized identity verification 2020-10-09 00:00:02 +0200

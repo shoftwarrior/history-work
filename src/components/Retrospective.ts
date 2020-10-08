@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-10-21 00:00:01 +0200
+feature: enable decentralized identity verification 2020-10-09 00:00:02 +0200
