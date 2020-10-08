@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2020-10-22 00:00:13 +0200
+main: integrate decentralized oracle service 2020-10-09 00:00:03 +0200
