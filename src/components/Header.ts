@@ -1,1 +1,1 @@
-spike: research integration of decentralized identity verification 2020-10-30 00:00:07 +0200
+spike: research and experiment with Layer 2 scaling solutions 2020-10-10 00:00:01 +0200
