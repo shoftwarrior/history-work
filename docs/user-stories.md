@@ -1,1 +1,1 @@
-fix: correct error in payment processing 2020-10-18 00:00:00 +0200
+bugfix: patch potential flash loan exploit 2020-10-10 00:00:02 +0200

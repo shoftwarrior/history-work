@@ -1,1 +1,1 @@
-feature: implement additional fixes related to bug 2020-12-02 00:00:08 +0200
+bugfix: patch potential flash loan exploit 2020-10-10 00:00:02 +0200

@@ -1,1 +1,1 @@
-bug: address validation error in form 2020-10-22 00:00:02 +0200
+bugfix: patch potential flash loan exploit 2020-10-10 00:00:02 +0200

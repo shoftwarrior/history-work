@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2020-11-23 00:00:12 +0200
+bugfix: patch potential flash loan exploit 2020-10-10 00:00:02 +0200
