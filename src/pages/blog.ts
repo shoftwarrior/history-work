@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-refactor: optimize main module 2020-10-22 00:00:05 +0200
-=======
-ui: implement new dashboard design 2020-10-22 00:00:10 +0200
->>>>>>> feature
+merge: integrate changes from feature branch 2020-10-10 00:00:06 +0200
