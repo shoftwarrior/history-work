@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: refactor smart contract logic 2020-10-20 00:00:01 +0200
-=======
-feature: integrate decentralized exchange 2020-10-20 00:00:03 +0200
->>>>>>> feature
+main: initialize DeFi project 2020-10-10 00:00:00 +0200
