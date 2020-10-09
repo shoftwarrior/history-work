@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main: integrate decentralized oracle service 2020-10-09 00:00:03 +0200
+=======
+user-story: optimize user experience 2020-10-31 00:00:01 +0200
+>>>>>>> user-story
