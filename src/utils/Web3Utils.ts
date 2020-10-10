@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2020-10-09 00:00:02 +0200
+feat: integrate third-party API 2020-10-11 00:00:01 +0200
