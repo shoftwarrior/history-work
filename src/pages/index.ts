@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2020-10-09 00:00:02 +0200
+merge: integrate changes from user-story branch 2020-10-11 00:00:06 +0200
