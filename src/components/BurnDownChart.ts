@@ -1,1 +1,1 @@
-bug: resolve issues with file uploads 2020-12-26 00:00:15 +0200
+ui: polish user interface for release 2020-10-11 00:00:09 +0200
