@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-10-11 00:00:14 +0200
+merge: integrate changes from feature branch 2020-10-11 00:00:15 +0200
