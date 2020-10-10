@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 refactor: optimize database queries 2020-10-11 00:00:02 +0200
 =======
 bugfix: address issues reported in feature 2020-10-11 00:00:04 +0200
+>>>>>>> feature
+=======
+feature: implement governance module 2020-10-11 00:00:11 +0200
 >>>>>>> feature

@@ -1,1 +1,1 @@
-docs: update project README 2020-10-11 00:00:08 +0200
+main: implement basic tokenomics 2020-10-11 00:00:12 +0200
