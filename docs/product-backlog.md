@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-10-11 00:00:14 +0200
+ui: enhance homepage layout 2020-10-11 00:00:17 +0200

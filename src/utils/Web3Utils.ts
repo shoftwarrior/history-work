@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2020-10-11 00:00:15 +0200
+ui: enhance homepage layout 2020-10-11 00:00:17 +0200
