@@ -1,1 +1,1 @@
-merge: integrate changes from user-story branch 2020-10-11 00:00:06 +0200
+feature: implement governance module 2020-10-11 00:00:07 +0200
