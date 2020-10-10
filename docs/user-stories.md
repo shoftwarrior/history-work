@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-10-11 00:00:12 +0200
+main: implement basic DeFi functionalities 2020-10-11 00:00:14 +0200
