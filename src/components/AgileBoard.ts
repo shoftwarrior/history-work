@@ -1,1 +1,1 @@
-release: finalize documentation for release 2020-12-28 00:00:11 +0200
+bugfix: address critical issues before release 2020-10-11 00:00:03 +0200

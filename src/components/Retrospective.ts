@@ -1,1 +1,1 @@
-feature: add search functionality 2020-12-25 00:00:01 +0200
+bugfix: address critical issues before release 2020-10-11 00:00:03 +0200

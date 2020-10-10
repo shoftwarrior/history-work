@@ -1,1 +1,1 @@
-release: update dependencies for release 2020-11-20 00:00:07 +0200
+bugfix: address critical issues before release 2020-10-11 00:00:03 +0200
