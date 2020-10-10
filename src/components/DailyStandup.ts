@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2020-10-09 00:00:02 +0200
+bugfix: address issues reported in feature 2020-10-11 00:00:04 +0200

@@ -1,1 +1,1 @@
-feat: integrate third-party API 2020-10-11 00:00:01 +0200
+bugfix: address issues reported in feature 2020-10-11 00:00:04 +0200
