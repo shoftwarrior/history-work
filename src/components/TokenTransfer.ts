@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-10-11 00:00:14 +0200
+main: refactor smart contract logic 2020-10-11 00:00:16 +0200
