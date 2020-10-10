@@ -1,1 +1,1 @@
-new: integrate payment gateway 2020-10-22 00:00:06 +0200
+feature: implement governance module 2020-10-11 00:00:11 +0200
