@@ -1,1 +1,1 @@
-feature: implement additional fixes related to bug 2020-12-02 00:00:08 +0200
+fix: correct error in payment processing 2020-10-18 00:00:00 +0200

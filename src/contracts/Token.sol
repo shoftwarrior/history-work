@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2020-11-23 00:00:12 +0200
+fix: correct error in payment processing 2020-10-18 00:00:00 +0200

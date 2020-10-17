@@ -1,1 +1,1 @@
-bugfix: resolve security vulnerability in tokenomics 2020-10-28 00:00:00 +0200
+fix: correct error in payment processing 2020-10-18 00:00:00 +0200

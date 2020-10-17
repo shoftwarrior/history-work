@@ -1,1 +1,1 @@
-refactor: improve code related to bugfix 2020-11-23 00:00:09 +0200
+fix: correct error in payment processing 2020-10-18 00:00:00 +0200
