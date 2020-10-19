@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-bugfix: fix issue with form validation 2020-10-27 00:00:02 +0200
-=======
-bugfix: resolve security vulnerability in tokenomics 2020-10-28 00:00:00 +0200
->>>>>>> bugfix
-=======
-feature: enable flash loans 2020-10-28 00:00:05 +0200
->>>>>>> feature
+main: refactor smart contract logic 2020-10-20 00:00:01 +0200

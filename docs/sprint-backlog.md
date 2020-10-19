@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2020-10-30 00:00:09 +0200
+main: refactor smart contract logic 2020-10-20 00:00:01 +0200

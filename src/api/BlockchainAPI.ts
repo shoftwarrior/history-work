@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: update documentation 2020-10-27 00:00:07 +0200
-=======
-feature: add search functionality 2020-10-28 00:00:02 +0200
->>>>>>> feature
+main: refactor smart contract logic 2020-10-20 00:00:01 +0200
