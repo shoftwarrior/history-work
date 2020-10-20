@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ci: configure continuous integration pipeline 2020-10-30 00:00:06 +0200
-=======
-feature: implement governance module 2020-10-20 00:00:00 +0200
->>>>>>> feature
+main: set up smart contract infrastructure 2020-10-21 00:00:00 +0200
