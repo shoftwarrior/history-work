@@ -1,1 +1,1 @@
-refactor: optimize main module 2020-10-22 00:00:05 +0200
+style: format code according to style guide 2020-10-22 00:00:08 +0200
