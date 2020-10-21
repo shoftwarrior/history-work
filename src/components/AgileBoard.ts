@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2020-10-22 00:00:01 +0200
+refactor: optimize main module 2020-10-22 00:00:05 +0200
