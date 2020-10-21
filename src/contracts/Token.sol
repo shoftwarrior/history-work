@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2020-10-22 00:00:01 +0200
+merge: integrate changes from feature branch 2020-10-22 00:00:13 +0200
