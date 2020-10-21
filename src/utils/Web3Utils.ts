@@ -1,1 +1,1 @@
-new: integrate payment gateway 2020-10-22 00:00:06 +0200
+ui: implement new dashboard design 2020-10-22 00:00:10 +0200
