@@ -1,1 +1,1 @@
-release: conduct final testing for release 2020-12-27 00:00:00 +0200
+release: finalize release notes 2020-10-22 00:00:09 +0200

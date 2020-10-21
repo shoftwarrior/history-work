@@ -1,1 +1,1 @@
-refactor: improve code related to bugfix 2020-12-26 00:00:09 +0200
+release: finalize release notes 2020-10-22 00:00:09 +0200
