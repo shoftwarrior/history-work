@@ -1,1 +1,1 @@
-style: format code according to style guide 2020-10-22 00:00:08 +0200
+refactor: optimize database queries 2020-10-23 00:00:01 +0200
