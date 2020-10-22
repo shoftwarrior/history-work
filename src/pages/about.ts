@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-10-21 00:00:01 +0200
+feature: implement synthetic asset creation 2020-10-23 00:00:00 +0200

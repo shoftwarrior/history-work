@@ -1,1 +1,1 @@
-test: write integration tests for feature 2020-10-22 00:00:03 +0200
+feature: implement synthetic asset creation 2020-10-23 00:00:00 +0200
