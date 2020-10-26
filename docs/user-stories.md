@@ -1,1 +1,1 @@
-docs: document new feature in README 2020-11-23 00:00:02 +0200
+feature: add search functionality 2020-10-27 00:00:06 +0200
