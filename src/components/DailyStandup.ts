@@ -1,1 +1,1 @@
-feat: introduce dark mode 2020-11-23 00:00:17 +0200
+feature: integrate staking mechanism 2020-10-27 00:00:05 +0200

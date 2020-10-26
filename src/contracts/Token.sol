@@ -1,1 +1,1 @@
-feature: implement file upload feature 2020-10-27 00:00:00 +0200
+feature: integrate staking mechanism 2020-10-27 00:00:05 +0200
