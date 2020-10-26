@@ -1,1 +1,1 @@
-test: add main branch unit tests 2020-11-07 00:00:01 +0200
+bugfix: fix issue with form validation 2020-10-27 00:00:02 +0200

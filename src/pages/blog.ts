@@ -1,1 +1,1 @@
-hotfix: address performance issue 2020-11-23 00:00:06 +0200
+bugfix: fix issue with form validation 2020-10-27 00:00:02 +0200

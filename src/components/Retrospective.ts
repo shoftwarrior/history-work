@@ -1,1 +1,1 @@
-ui: enhance homepage layout 2020-11-23 00:00:16 +0200
+bugfix: fix issue with form validation 2020-10-27 00:00:02 +0200
