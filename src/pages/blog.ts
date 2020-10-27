@@ -1,1 +1,1 @@
-feature: add decentralized lending protocol 2020-11-22 00:00:04 +0200
+bugfix: address issues reported in feature 2020-10-28 00:00:04 +0200

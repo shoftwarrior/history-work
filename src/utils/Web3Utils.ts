@@ -1,1 +1,1 @@
-feature: add search functionality 2020-10-27 00:00:04 +0200
+bugfix: address issues reported in feature 2020-10-28 00:00:04 +0200
