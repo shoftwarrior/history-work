@@ -1,1 +1,1 @@
-refactor: improve code related to bugfix 2020-11-23 00:00:09 +0200
+bugfix: resolve security vulnerability in tokenomics 2020-10-28 00:00:00 +0200
