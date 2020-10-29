@@ -1,1 +1,1 @@
-main: configure decentralized storage 2020-10-30 00:00:04 +0200
+ci: configure continuous integration pipeline 2020-10-30 00:00:06 +0200
