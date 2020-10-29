@@ -1,1 +1,1 @@
-docs: update project documentation 2020-10-27 00:00:03 +0200
+main: refactor smart contract logic 2020-10-30 00:00:02 +0200
