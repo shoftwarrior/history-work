@@ -1,1 +1,1 @@
-main: update documentation 2020-10-27 00:00:07 +0200
+main: configure decentralized storage 2020-10-30 00:00:04 +0200
