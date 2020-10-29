@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2020-10-30 00:00:06 +0200
+spike: research integration of decentralized identity verification 2020-10-30 00:00:07 +0200

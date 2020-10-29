@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: configure decentralized storage 2020-10-30 00:00:04 +0200
-=======
-feat: implement user registration 2020-10-30 00:00:01 +0200
->>>>>>> feature
+spike: research integration of decentralized identity verification 2020-10-30 00:00:07 +0200
