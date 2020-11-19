@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-docs: update project documentation 2020-11-19 00:00:01 +0200
-=======
-feature: enhance user authentication 2020-11-24 00:00:01 +0200
->>>>>>> feature
-=======
-user-story: resolve user-reported issues 2020-11-19 00:00:03 +0200
->>>>>>> user-story
+main: implement basic DeFi functionalities 2020-11-20 00:00:00 +0200
