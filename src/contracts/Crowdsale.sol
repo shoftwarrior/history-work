@@ -1,1 +1,1 @@
-feature: implement additional fixes related to bug 2020-12-02 00:00:08 +0200
+bug: resolve issues with file uploads 2020-11-20 00:00:04 +0200
