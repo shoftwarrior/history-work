@@ -1,1 +1,1 @@
-release: conduct final testing for release 2020-12-27 00:00:00 +0200
+ui: polish user interface for release 2020-11-20 00:00:01 +0200

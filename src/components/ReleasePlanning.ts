@@ -1,1 +1,1 @@
-release: finalize documentation for release 2020-12-28 00:00:11 +0200
+ui: polish user interface for release 2020-11-20 00:00:01 +0200

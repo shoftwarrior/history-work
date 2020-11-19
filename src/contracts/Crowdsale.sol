@@ -1,1 +1,1 @@
-refactor: improve code related to bugfix 2020-12-26 00:00:09 +0200
+ui: polish user interface for release 2020-11-20 00:00:01 +0200
