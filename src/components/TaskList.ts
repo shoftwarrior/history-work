@@ -1,1 +1,1 @@
-release: finalize documentation for release 2020-12-11 00:00:01 +0200
+release: update dependencies for release 2020-11-20 00:00:07 +0200

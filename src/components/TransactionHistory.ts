@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2020-12-26 00:00:11 +0200
+release: update dependencies for release 2020-11-20 00:00:07 +0200
