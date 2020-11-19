@@ -1,1 +1,1 @@
-docs: update project documentation 2020-11-19 00:00:01 +0200
+bugfix: fix issue with form validation 2020-11-20 00:00:06 +0200

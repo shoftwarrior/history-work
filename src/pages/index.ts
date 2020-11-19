@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-11-20 00:00:00 +0200
+bugfix: fix issue with form validation 2020-11-20 00:00:06 +0200
