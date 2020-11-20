@@ -1,1 +1,1 @@
-ui: fix styling issues in bugfix 2020-12-27 00:00:09 +0200
+fix: address performance bottleneck 2020-11-21 00:00:03 +0200

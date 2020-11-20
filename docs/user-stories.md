@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2020-12-26 00:00:02 +0200
+fix: address performance bottleneck 2020-11-21 00:00:03 +0200
