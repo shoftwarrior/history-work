@@ -1,1 +1,1 @@
-main: update documentation 2020-11-21 00:00:02 +0200
+chore: bump version to v1.0.0 2020-11-21 00:00:05 +0200
