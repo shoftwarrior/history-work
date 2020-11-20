@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-11-20 00:00:00 +0200
+main: update documentation 2020-11-21 00:00:02 +0200
