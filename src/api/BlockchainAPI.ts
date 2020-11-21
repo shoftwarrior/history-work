@@ -1,1 +1,1 @@
-user-story: add user analytics 2020-11-19 00:00:06 +0200
+ui: redesign user interface for user story 2020-11-22 00:00:00 +0200
