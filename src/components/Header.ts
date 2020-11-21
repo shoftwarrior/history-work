@@ -1,1 +1,1 @@
-feature: add decentralized lending protocol 2020-11-21 00:00:09 +0200
+feature: implement synthetic asset creation 2020-11-22 00:00:06 +0200
