@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: update documentation 2020-11-21 00:00:02 +0200
-=======
-fix: address performance bottleneck 2020-11-21 00:00:03 +0200
->>>>>>> bugfix
+main: integrate decentralized oracle service 2020-11-22 00:00:01 +0200
