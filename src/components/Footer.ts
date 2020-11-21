@@ -1,1 +1,1 @@
-version: bump to v2.0.0 for feature release 2020-11-21 00:00:08 +0200
+feature: add decentralized lending protocol 2020-11-22 00:00:04 +0200

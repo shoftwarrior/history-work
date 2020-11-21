@@ -1,1 +1,1 @@
-feature: implement admin dashboard 2020-12-02 00:00:07 +0200
+feature: add decentralized lending protocol 2020-11-22 00:00:04 +0200
