@@ -1,1 +1,1 @@
-test: add main branch unit tests 2020-11-21 00:00:04 +0200
+main: configure decentralized storage 2020-11-22 00:00:02 +0200
