@@ -1,1 +1,1 @@
-feature: add insurance protocol 2020-11-22 00:00:05 +0200
+feature: add liquidity mining feature 2020-11-23 00:00:15 +0200
