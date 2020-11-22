@@ -1,1 +1,1 @@
-config: update feature-specific settings 2020-11-19 00:00:04 +0200
+docs: document new feature in README 2020-11-23 00:00:02 +0200
