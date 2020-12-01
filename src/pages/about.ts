@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2020-12-28 00:00:15 +0200
+feature: add search functionality 2020-12-02 00:00:06 +0200
