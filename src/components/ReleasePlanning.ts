@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2020-12-21 00:00:01 +0200
+refactor: optimize code for performance 2020-12-02 00:00:03 +0200
