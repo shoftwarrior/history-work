@@ -1,1 +1,1 @@
-bugfix: resolve issue with governance smart contract 2020-12-02 00:00:01 +0200
+feature: implement additional fixes related to bug 2020-12-02 00:00:08 +0200

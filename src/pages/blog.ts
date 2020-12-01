@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2020-12-02 00:00:05 +0200
+feature: implement additional fixes related to bug 2020-12-02 00:00:08 +0200
