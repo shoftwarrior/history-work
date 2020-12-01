@@ -1,1 +1,1 @@
-feature: add insurance protocol 2020-12-13 00:00:01 +0200
+ui: implement new dashboard design 2020-12-02 00:00:02 +0200

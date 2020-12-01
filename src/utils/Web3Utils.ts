@@ -1,1 +1,1 @@
-feature: add decentralized lending protocol 2020-12-11 00:00:02 +0200
+ui: implement new dashboard design 2020-12-02 00:00:02 +0200
