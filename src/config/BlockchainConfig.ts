@@ -1,1 +1,1 @@
-fix: address performance bottleneck 2020-12-12 00:00:02 +0200
+bugfix: resolve issue with governance smart contract 2020-12-02 00:00:01 +0200
