@@ -1,1 +1,1 @@
-fix: address performance bottleneck 2020-12-12 00:00:02 +0200
+docs: update bugfix documentation 2020-12-02 00:00:05 +0200

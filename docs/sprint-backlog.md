@@ -1,1 +1,1 @@
-ui: fix styling issues in bugfix 2020-12-27 00:00:09 +0200
+docs: update bugfix documentation 2020-12-02 00:00:05 +0200
