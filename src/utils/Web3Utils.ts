@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2020-12-28 00:00:14 +0200
+main: optimize gas consumption 2020-12-10 00:00:01 +0200

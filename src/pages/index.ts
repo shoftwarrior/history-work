@@ -1,1 +1,1 @@
-test: add main branch unit tests 2020-12-28 00:00:10 +0200
+main: optimize gas consumption 2020-12-10 00:00:01 +0200
