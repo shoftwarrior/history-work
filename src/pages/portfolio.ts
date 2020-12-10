@@ -1,1 +1,1 @@
-feature: implement yield farming mechanism 2020-12-21 00:00:00 +0200
+feature: add decentralized lending protocol 2020-12-11 00:00:02 +0200
