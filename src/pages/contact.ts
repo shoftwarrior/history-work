@@ -1,1 +1,1 @@
-main: optimize gas consumption 2020-12-11 00:00:03 +0200
+bugfix: fix issue with form validation 2020-12-12 00:00:00 +0200

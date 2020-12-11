@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-chore: bump version to v1.0.0 2020-12-28 00:00:08 +0200
-=======
-feature: add liquidity mining feature 2020-12-28 00:00:13 +0200
->>>>>>> feature
-=======
-feature: enable decentralized identity verification 2020-12-28 00:00:15 +0200
->>>>>>> feature
-=======
-feature: add decentralized lending protocol 2020-12-11 00:00:02 +0200
->>>>>>> feature
+bugfix: fix issue with form validation 2020-12-12 00:00:00 +0200
