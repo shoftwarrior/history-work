@@ -1,1 +1,1 @@
-bug: resolve issues with file uploads 2020-12-26 00:00:15 +0200
+fix: address performance bottleneck 2020-12-12 00:00:02 +0200

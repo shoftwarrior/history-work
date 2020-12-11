@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2020-12-26 00:00:08 +0200
+fix: address performance bottleneck 2020-12-12 00:00:02 +0200
