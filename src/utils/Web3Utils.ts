@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: optimize gas consumption 2020-12-10 00:00:01 +0200
-=======
-feature: add decentralized lending protocol 2020-12-11 00:00:02 +0200
->>>>>>> feature
+main: integrate with blockchain network 2020-12-12 00:00:01 +0200

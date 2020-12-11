@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2020-12-12 00:00:00 +0200
+main: integrate with blockchain network 2020-12-12 00:00:01 +0200
