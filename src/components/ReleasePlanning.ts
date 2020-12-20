@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2020-12-28 00:00:15 +0200
+ui: implement new dashboard design 2020-12-21 00:00:01 +0200
