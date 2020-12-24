@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-12-30 00:00:05 +0200
+main: implement basic tokenomics 2020-12-25 00:00:04 +0200
