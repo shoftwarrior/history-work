@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-12-30 00:00:05 +0200
+docs: update project documentation 2020-12-25 00:00:00 +0200

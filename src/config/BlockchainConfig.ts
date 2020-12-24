@@ -1,1 +1,1 @@
-docs: document main branch changes 2020-12-30 00:00:04 +0200
+docs: update project documentation 2020-12-25 00:00:00 +0200
