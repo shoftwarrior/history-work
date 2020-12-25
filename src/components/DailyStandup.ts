@@ -1,1 +1,1 @@
-feature: add search functionality 2020-12-25 00:00:01 +0200
+ui: implement new dashboard design 2020-12-26 00:00:02 +0200
