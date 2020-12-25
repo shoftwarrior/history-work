@@ -1,1 +1,1 @@
-feature: implement governance module 2020-12-29 00:00:02 +0200
+ui: improve user interface for feature 2020-12-26 00:00:08 +0200
