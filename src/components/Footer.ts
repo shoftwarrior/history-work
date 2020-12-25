@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-12-25 00:00:04 +0200
+refactor: optimize main module 2020-12-26 00:00:04 +0200
