@@ -1,1 +1,1 @@
-refactor: improve code related to bugfix 2020-12-26 00:00:09 +0200
+bugfix: fix issue with decentralized exchange orders 2020-12-26 00:00:11 +0200
