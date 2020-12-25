@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2020-12-30 00:00:05 +0200
+main: optimize gas consumption 2020-12-26 00:00:07 +0200

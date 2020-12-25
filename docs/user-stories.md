@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-docs: document main branch changes 2020-12-30 00:00:04 +0200
-=======
-feature: enable flash loans 2020-12-30 00:00:00 +0200
->>>>>>> feature
-=======
-feature: implement file upload feature 2020-12-25 00:00:05 +0200
->>>>>>> feature
+main: optimize gas consumption 2020-12-26 00:00:07 +0200
