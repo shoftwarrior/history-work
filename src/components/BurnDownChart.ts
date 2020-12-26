@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2020-12-26 00:00:02 +0200
+docs: document new feature in README 2020-12-27 00:00:12 +0200
