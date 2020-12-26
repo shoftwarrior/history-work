@@ -1,1 +1,1 @@
-docs: document main branch changes 2020-12-27 00:00:06 +0200
+main: set up smart contract infrastructure 2020-12-27 00:00:10 +0200
