@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-style: format code according to style guide 2020-12-25 00:00:02 +0200
-=======
-merge: integrate changes from bugfix branch 2020-12-26 00:00:06 +0200
->>>>>>> user-story
-=======
-user-story: implement user login 2020-12-26 00:00:12 +0200
->>>>>>> user-story
+docs: update project documentation 2020-12-27 00:00:01 +0200

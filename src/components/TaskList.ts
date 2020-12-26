@@ -1,1 +1,1 @@
-main: optimize gas consumption 2020-12-26 00:00:07 +0200
+docs: update project documentation 2020-12-27 00:00:01 +0200
