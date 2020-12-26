@@ -1,1 +1,1 @@
-docs: update project README 2020-12-26 00:00:14 +0200
+docs: document main branch changes 2020-12-27 00:00:06 +0200
