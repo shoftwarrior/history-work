@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 docs: document main branch changes 2020-12-27 00:00:06 +0200
+=======
+feature: add decentralized lending protocol 2020-12-27 00:00:03 +0200
+>>>>>>> feature
