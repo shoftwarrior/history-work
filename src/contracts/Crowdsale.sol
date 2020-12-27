@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2020-12-28 00:00:07 +0200
+feature: add liquidity mining feature 2020-12-28 00:00:13 +0200
