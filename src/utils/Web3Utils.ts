@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2020-12-28 00:00:01 +0200
+docs: document main branch changes 2020-12-28 00:00:04 +0200
