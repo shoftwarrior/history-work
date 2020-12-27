@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2020-12-28 00:00:03 +0200
+test: add main branch unit tests 2020-12-28 00:00:06 +0200
