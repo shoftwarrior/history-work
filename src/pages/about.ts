@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2020-12-28 00:00:14 +0200
+main: implement basic DeFi functionalities 2020-12-28 00:00:16 +0200
