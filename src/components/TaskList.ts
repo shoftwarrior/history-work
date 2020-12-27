@@ -1,1 +1,1 @@
-test: add main branch unit tests 2020-12-28 00:00:10 +0200
+version: bump to v1.1.0 2020-12-28 00:00:14 +0200
