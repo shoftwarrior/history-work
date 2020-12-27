@@ -1,1 +1,1 @@
-ui: redesign user interface for user story 2020-12-26 00:00:10 +0200
+user-story: optimize user experience 2020-12-28 00:00:12 +0200
