@@ -1,1 +1,1 @@
-refactor: optimize database queries 2020-12-27 00:00:13 +0200
+docs: update project documentation 2020-12-28 00:00:00 +0200

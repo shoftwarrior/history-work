@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: configure decentralized storage 2020-12-27 00:00:11 +0200
-=======
-feature: add decentralized lending protocol 2020-12-27 00:00:02 +0200
->>>>>>> feature
+docs: update project documentation 2020-12-28 00:00:00 +0200
