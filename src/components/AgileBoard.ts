@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2020-12-30 00:00:02 +0200
+user-story: address user feedback 2020-12-28 00:00:02 +0200
