@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2020-12-26 00:00:08 +0200
+feature: enable decentralized identity verification 2020-12-28 00:00:15 +0200
