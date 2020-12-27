@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2020-12-26 00:00:08 +0200
+release: finalize documentation for release 2020-12-28 00:00:11 +0200
