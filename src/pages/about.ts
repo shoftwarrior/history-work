@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2020-12-29 00:00:03 +0200
+main: implement basic DeFi functionalities 2020-12-30 00:00:02 +0200
