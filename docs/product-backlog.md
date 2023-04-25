@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2023-05-22 15:12:15 +0200
+chore: bump version to v1.0.0 2023-04-25 15:12:09 +0200

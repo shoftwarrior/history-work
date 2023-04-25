@@ -1,1 +1,1 @@
-chore: initial project setup 2023-05-15 15:12:09 +0200
+chore: bump version to v1.0.0 2023-04-25 15:12:09 +0200
