@@ -1,1 +1,1 @@
-docs: update project documentation 2023-05-22 15:12:18 +0200
+main: set up smart contract infrastructure 2023-04-26 15:12:11 +0200
