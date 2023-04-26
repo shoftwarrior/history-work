@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2023-04-25 15:12:10 +0200
+main: implement basic DeFi functionalities 2023-04-26 15:12:10 +0200
