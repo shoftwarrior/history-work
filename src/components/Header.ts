@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2023-04-25 15:12:09 +0200
+ui: enhance homepage layout 2023-04-26 15:12:12 +0200

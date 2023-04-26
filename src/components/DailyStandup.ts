@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2023-04-26 15:12:10 +0200
+ui: enhance homepage layout 2023-04-26 15:12:12 +0200
