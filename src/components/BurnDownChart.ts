@@ -1,1 +1,1 @@
-fix: resolve UI rendering bug 2023-05-30 15:12:23 +0200
+bugfix: fix issues reported by the community 2023-04-27 15:12:10 +0200

@@ -1,1 +1,1 @@
-hotfix: patch security vulnerability 2023-05-19 15:12:15 +0200
+bugfix: fix issues reported by the community 2023-04-27 15:12:10 +0200
