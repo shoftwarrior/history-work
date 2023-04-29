@@ -1,1 +1,1 @@
-bugfix: patch potential flash loan exploit 2023-05-30 15:12:20 +0200
+config: adjust settings for bugfix 2023-04-29 15:12:13 +0200

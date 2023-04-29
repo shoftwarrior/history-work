@@ -1,1 +1,1 @@
-hotfix: patch security vulnerability 2023-05-19 15:12:15 +0200
+config: adjust settings for bugfix 2023-04-29 15:12:13 +0200
