@@ -1,1 +1,1 @@
-config: adjust settings for bugfix 2023-04-29 15:12:13 +0200
+bugfix: resolve issue with login functionality 2023-04-30 15:12:13 +0200

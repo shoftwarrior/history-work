@@ -1,1 +1,1 @@
-version: bump to v1.1.1 for bugfix release 2023-05-31 15:12:12 +0200
+bugfix: resolve issue with login functionality 2023-04-30 15:12:13 +0200
