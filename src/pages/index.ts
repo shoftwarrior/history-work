@@ -1,1 +1,1 @@
-docs: update project documentation 2023-04-30 15:12:09 +0200
+ui: enhance homepage layout 2023-04-30 15:12:14 +0200
