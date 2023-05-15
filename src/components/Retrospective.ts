@@ -1,1 +1,1 @@
-refactor: optimize main module 2023-05-12 15:12:09 +0200
+chore: initial project setup 2023-05-15 15:12:09 +0200
