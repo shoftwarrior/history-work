@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-main: set up smart contract infrastructure 2023-05-28 15:12:10 +0200
-=======
-user-story: optimize gas fees for users 2023-06-04 15:12:11 +0200
->>>>>>> user-story
-=======
-feature: add insurance protocol 2023-05-28 15:12:17 +0200
->>>>>>> feature
+style: format code according to style guide 2023-05-19 15:12:11 +0200

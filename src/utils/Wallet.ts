@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2023-05-28 15:12:18 +0200
+style: format code according to style guide 2023-05-19 15:12:11 +0200

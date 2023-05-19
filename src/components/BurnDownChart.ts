@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: update documentation 2023-05-28 15:12:16 +0200
-=======
-feature: add liquidity mining feature 2023-05-27 15:12:16 +0200
->>>>>>> feature
+style: format code according to style guide 2023-05-19 15:12:11 +0200
