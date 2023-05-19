@@ -1,1 +1,1 @@
-main: integrate with blockchain network 2023-05-19 15:12:13 +0200
+main: implement basic tokenomics 2023-05-19 15:12:18 +0200
