@@ -1,1 +1,1 @@
-feature: add insurance protocol 2023-05-28 15:12:17 +0200
+feature: add decentralized lending protocol 2023-05-19 15:12:10 +0200
