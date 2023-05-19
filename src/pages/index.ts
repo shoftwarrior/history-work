@@ -1,1 +1,1 @@
-bugfix: resolve security vulnerability in tokenomics 2023-05-30 15:12:15 +0200
+hotfix: patch security vulnerability 2023-05-19 15:12:15 +0200

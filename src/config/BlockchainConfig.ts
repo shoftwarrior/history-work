@@ -1,1 +1,1 @@
-bugfix: patch potential flash loan exploit 2023-05-30 15:12:20 +0200
+hotfix: patch security vulnerability 2023-05-19 15:12:15 +0200

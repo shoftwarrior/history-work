@@ -1,1 +1,1 @@
-version: bump to v1.1.1 for bugfix release 2023-05-31 15:12:12 +0200
+hotfix: patch security vulnerability 2023-05-19 15:12:15 +0200

@@ -1,1 +1,1 @@
-fix: address performance bottleneck 2023-06-05 15:12:17 +0200
+hotfix: patch security vulnerability 2023-05-19 15:12:15 +0200
