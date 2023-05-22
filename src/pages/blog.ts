@@ -1,1 +1,1 @@
-main: update documentation 2023-05-28 15:12:16 +0200
+ci: configure continuous integration pipeline 2023-05-22 15:12:15 +0200
