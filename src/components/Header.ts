@@ -1,1 +1,1 @@
-version: bump to v2.0.0 for feature release 2023-05-27 15:12:09 +0200
+feat: integrate third-party API 2023-05-22 15:12:17 +0200
