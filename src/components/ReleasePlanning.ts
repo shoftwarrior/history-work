@@ -1,1 +1,1 @@
-ci: configure continuous integration 2023-06-05 15:12:13 +0200
+docs: update project documentation 2023-05-27 15:12:10 +0200
