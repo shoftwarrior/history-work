@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-refactor: optimize main module 2023-06-05 15:12:10 +0200
-=======
-version: bump to v2.0.0 for feature release 2023-06-05 15:12:15 +0200
->>>>>>> feature
+ui: enhance homepage layout 2023-05-27 15:12:12 +0200
