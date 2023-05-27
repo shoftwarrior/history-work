@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2023-05-31 15:12:11 +0200
+version: bump to v2.0.0 for feature release 2023-05-27 15:12:09 +0200
