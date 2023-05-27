@@ -1,1 +1,1 @@
-docs: update project documentation 2023-05-27 15:12:10 +0200
+version: bump to v1.1.0 2023-05-27 15:12:14 +0200
