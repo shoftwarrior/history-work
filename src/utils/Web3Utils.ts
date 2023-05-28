@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test: add unit tests for core functionality 2023-05-27 15:12:15 +0200
-=======
-hotfix: patch file upload vulnerability 2023-06-27 15:12:17 +0200
->>>>>>> hotfix
+test: add main branch unit tests 2023-05-28 15:12:14 +0200
