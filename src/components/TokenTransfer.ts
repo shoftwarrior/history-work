@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2023-05-27 15:12:14 +0200
+main: initialize DeFi project 2023-05-28 15:12:12 +0200
