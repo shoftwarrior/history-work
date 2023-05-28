@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2023-06-04 15:12:18 +0200
+feature: add insurance protocol 2023-05-28 15:12:17 +0200
