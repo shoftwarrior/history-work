@@ -1,1 +1,1 @@
-bugfix: patch potential flash loan exploit 2023-05-30 15:12:20 +0200
+fix: resolve UI rendering bug 2023-05-30 15:12:23 +0200
