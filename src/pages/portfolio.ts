@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2023-06-12 15:12:11 +0200
+docs: document main branch changes 2023-05-30 15:12:13 +0200
