@@ -1,1 +1,1 @@
-docs: update user story documentation 2023-06-30 15:12:09 +0200
+user-story: optimize gas fees for users 2023-05-30 15:12:12 +0200
