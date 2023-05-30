@@ -1,1 +1,1 @@
-feat: add notification system 2023-05-30 15:12:24 +0200
+feature: add insurance protocol 2023-05-30 15:12:25 +0200

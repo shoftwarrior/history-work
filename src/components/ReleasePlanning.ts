@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2023-07-03 15:12:17 +0200
+feature: add insurance protocol 2023-05-30 15:12:25 +0200

@@ -1,1 +1,1 @@
-docs: document new feature in README 2023-07-03 15:12:16 +0200
+feature: add insurance protocol 2023-05-30 15:12:25 +0200
