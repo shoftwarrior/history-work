@@ -1,1 +1,1 @@
-bug: address validation error in form 2023-06-30 15:12:13 +0200
+bugfix: patch potential flash loan exploit 2023-05-30 15:12:20 +0200

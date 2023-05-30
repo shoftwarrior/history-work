@@ -1,1 +1,1 @@
-bugfix: resolve security vulnerability in tokenomics 2023-07-10 15:12:10 +0200
+bugfix: patch potential flash loan exploit 2023-05-30 15:12:20 +0200
