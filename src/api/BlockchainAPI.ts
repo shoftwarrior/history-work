@@ -1,1 +1,1 @@
-feat: develop user profile page 2023-06-12 15:12:12 +0200
+feature: enable decentralized identity verification 2023-05-31 15:12:11 +0200
