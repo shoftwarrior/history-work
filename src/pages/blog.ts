@@ -1,1 +1,1 @@
-bugfix: resolve security vulnerability in tokenomics 2023-07-10 15:12:10 +0200
+version: bump to v1.1.1 for bugfix release 2023-05-31 15:12:12 +0200
