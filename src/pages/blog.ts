@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-style: format code according to style guide 2023-05-31 15:12:09 +0200
-=======
-version: bump to v1.1.1 for bugfix release 2023-05-31 15:12:12 +0200
->>>>>>> bugfix
+docs: update project README 2023-06-02 15:12:10 +0200

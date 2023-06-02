@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-config: update deployment settings 2023-05-30 15:12:17 +0200
-=======
-bugfix: resolve security vulnerability in tokenomics 2023-05-30 15:12:15 +0200
->>>>>>> bugfix
+docs: update project README 2023-06-02 15:12:10 +0200
