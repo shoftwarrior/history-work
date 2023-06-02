@@ -1,1 +1,1 @@
-main: optimize gas consumption 2023-05-30 15:12:19 +0200
+chore: initial project setup 2023-06-02 15:12:09 +0200
