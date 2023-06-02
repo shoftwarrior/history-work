@@ -1,1 +1,1 @@
-docs: update project README 2023-06-02 15:12:10 +0200
+main: optimize gas consumption 2023-06-02 15:12:18 +0200
