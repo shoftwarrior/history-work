@@ -1,1 +1,1 @@
-docs: update project README 2023-06-02 15:12:10 +0200
+bugfix: fix issue with form validation 2023-06-02 15:12:12 +0200

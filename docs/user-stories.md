@@ -1,1 +1,1 @@
-docs: document main branch changes 2023-06-02 15:12:11 +0200
+bugfix: fix issue with form validation 2023-06-02 15:12:12 +0200
