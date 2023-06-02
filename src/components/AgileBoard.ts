@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2023-06-02 15:12:12 +0200
+main: integrate with blockchain network 2023-06-02 15:12:16 +0200
