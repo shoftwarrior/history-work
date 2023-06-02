@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-main: integrate with blockchain network 2023-05-30 15:12:11 +0200
-=======
-user-story: optimize gas fees for users 2023-05-30 15:12:12 +0200
->>>>>>> user-story
-=======
-fix: resolve UI rendering bug 2023-05-30 15:12:23 +0200
->>>>>>> bugfix
+main: update documentation 2023-06-02 15:12:14 +0200
