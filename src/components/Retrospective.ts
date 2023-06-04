@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2023-06-02 15:12:12 +0200
+main: optimize gas consumption 2023-06-04 15:12:14 +0200
