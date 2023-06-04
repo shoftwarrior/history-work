@@ -1,1 +1,1 @@
-user-story: resolve user-reported issues 2023-05-30 15:12:14 +0200
+ui: redesign user interface for user story 2023-06-04 15:12:10 +0200

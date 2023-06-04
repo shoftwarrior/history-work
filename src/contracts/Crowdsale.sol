@@ -1,1 +1,1 @@
-user-story: address user feedback 2023-06-02 15:12:15 +0200
+ui: redesign user interface for user story 2023-06-04 15:12:10 +0200
