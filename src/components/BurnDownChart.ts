@@ -1,1 +1,1 @@
-feature: add insurance protocol 2023-06-12 15:12:09 +0200
+feat: integrate third-party API 2023-06-05 15:12:09 +0200

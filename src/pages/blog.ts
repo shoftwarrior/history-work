@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2023-06-04 15:12:13 +0200
+feat: integrate third-party API 2023-06-05 15:12:09 +0200
