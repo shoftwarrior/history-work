@@ -1,1 +1,1 @@
-main: update documentation 2023-06-02 15:12:14 +0200
+style: format code according to style guide 2023-06-05 15:12:16 +0200
