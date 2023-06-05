@@ -1,1 +1,1 @@
-fix: resolve issue with user login 2023-07-31 15:12:14 +0200
+fix: address performance bottleneck 2023-06-05 15:12:17 +0200

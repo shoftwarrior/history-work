@@ -1,1 +1,1 @@
-bug: address validation error in form 2023-06-30 15:12:18 +0200
+fix: address performance bottleneck 2023-06-05 15:12:17 +0200
