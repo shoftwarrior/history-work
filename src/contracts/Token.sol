@@ -1,1 +1,1 @@
-feature: add insurance protocol 2023-05-30 15:12:25 +0200
+feat: introduce dark mode 2023-06-05 15:12:18 +0200
