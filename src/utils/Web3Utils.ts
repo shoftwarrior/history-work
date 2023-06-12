@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2023-07-31 15:12:13 +0200
+fix: address performance bottleneck 2023-06-12 15:12:10 +0200
