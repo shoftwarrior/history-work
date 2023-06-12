@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2023-06-12 15:12:16 +0200
+main: optimize gas consumption 2023-06-12 15:12:17 +0200
