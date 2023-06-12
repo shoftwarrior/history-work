@@ -1,1 +1,1 @@
-merge: integrate changes from bugfix branch 2023-07-06 15:12:10 +0200
+config: configure user story settings 2023-06-12 15:12:14 +0200
