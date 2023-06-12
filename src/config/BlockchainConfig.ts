@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2023-06-12 15:12:11 +0200
+chore: bump version to v1.0.0 2023-06-12 15:12:16 +0200
