@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2023-07-03 15:12:17 +0200
+feat: develop user profile page 2023-06-12 15:12:12 +0200
