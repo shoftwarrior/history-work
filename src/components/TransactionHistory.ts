@@ -1,1 +1,1 @@
-merge: integrate changes from user-story branch 2023-06-27 15:12:13 +0200
+docs: document new feature in README 2023-06-27 15:12:14 +0200

@@ -1,1 +1,1 @@
-feat: integrate third-party API 2023-07-10 15:12:16 +0200
+docs: document new feature in README 2023-06-27 15:12:14 +0200
