@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2023-06-27 15:12:10 +0200
+feature: implement yield farming mechanism 2023-06-27 15:12:15 +0200
