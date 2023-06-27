@@ -1,1 +1,1 @@
-version: bump to v1.1.2 for hotfix 2023-07-04 15:12:11 +0200
+hotfix: patch file upload vulnerability 2023-06-27 15:12:17 +0200
