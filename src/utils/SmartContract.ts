@@ -1,1 +1,1 @@
-feat: integrate third-party API 2023-07-10 15:12:16 +0200
+feature: implement synthetic asset creation 2023-06-27 15:12:10 +0200
