@@ -1,1 +1,1 @@
-user-story: integrate social media login 2023-07-29 15:12:12 +0200
+docs: update user story documentation 2023-06-30 15:12:09 +0200
