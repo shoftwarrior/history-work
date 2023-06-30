@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2023-06-30 15:12:16 +0200
+main: update documentation 2023-06-30 15:12:17 +0200
