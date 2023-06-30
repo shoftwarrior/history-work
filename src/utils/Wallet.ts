@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2023-07-31 15:12:13 +0200
+bug: address validation error in form 2023-06-30 15:12:13 +0200
