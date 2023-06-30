@@ -1,1 +1,1 @@
-user-story: add user analytics 2023-06-27 15:12:11 +0200
+config: configure user story settings 2023-06-30 15:12:12 +0200

@@ -1,1 +1,1 @@
-docs: update user story documentation 2023-06-30 15:12:09 +0200
+config: configure user story settings 2023-06-30 15:12:12 +0200
