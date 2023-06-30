@@ -1,1 +1,1 @@
-feature: add search functionality 2023-06-29 15:12:11 +0200
+feat: introduce dark mode 2023-06-30 15:12:11 +0200
