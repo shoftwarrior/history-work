@@ -1,1 +1,1 @@
-feature: add search functionality 2023-06-29 15:12:11 +0200
+ui: improve user interface for feature 2023-07-03 15:12:17 +0200

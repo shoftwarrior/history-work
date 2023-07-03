@@ -1,1 +1,1 @@
-feat: introduce dark mode 2023-06-30 15:12:11 +0200
+ui: improve user interface for feature 2023-07-03 15:12:17 +0200
