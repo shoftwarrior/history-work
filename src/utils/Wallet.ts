@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2023-07-03 15:12:12 +0200
+style: format code according to style guide 2023-07-03 15:12:13 +0200
