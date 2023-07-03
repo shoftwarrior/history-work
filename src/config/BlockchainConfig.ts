@@ -1,1 +1,1 @@
-version: bump to v2.0.0 for feature release 2023-07-06 15:12:09 +0200
+feature: implement yield farming mechanism 2023-07-03 15:12:15 +0200
