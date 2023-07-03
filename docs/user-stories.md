@@ -1,1 +1,1 @@
-feature: implement yield farming mechanism 2023-06-27 15:12:15 +0200
+docs: document new feature in README 2023-07-03 15:12:16 +0200
