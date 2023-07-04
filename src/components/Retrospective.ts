@@ -1,1 +1,1 @@
-config: update deployment settings 2023-07-31 15:12:18 +0200
+docs: update project documentation 2023-07-04 15:12:12 +0200
