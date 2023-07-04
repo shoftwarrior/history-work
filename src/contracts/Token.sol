@@ -1,1 +1,1 @@
-style: format code according to style guide 2024-01-05 15:12:14 +0200
+version: bump to v1.1.2 for hotfix 2023-07-04 15:12:11 +0200

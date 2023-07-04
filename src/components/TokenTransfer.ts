@@ -1,1 +1,1 @@
-hotfix: patch governance smart contract bug 2023-09-18 15:12:13 +0200
+version: bump to v1.1.2 for hotfix 2023-07-04 15:12:11 +0200
