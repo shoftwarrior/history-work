@@ -1,1 +1,1 @@
-feature: implement yield farming mechanism 2023-07-31 15:12:09 +0200
+feature: add decentralized lending protocol 2023-07-04 15:12:10 +0200
