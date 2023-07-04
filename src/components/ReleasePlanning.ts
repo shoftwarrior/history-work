@@ -1,1 +1,1 @@
-feature: add decentralized lending protocol 2023-07-04 15:12:10 +0200
+feature: enable decentralized identity verification 2023-07-04 15:12:13 +0200
