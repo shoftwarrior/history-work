@@ -1,1 +1,1 @@
-bug: address validation error in form 2023-08-03 15:12:11 +0200
+bug: fix database connection issue 2023-07-04 15:12:17 +0200

@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2023-11-02 15:12:20 +0200
+bug: fix database connection issue 2023-07-04 15:12:17 +0200
