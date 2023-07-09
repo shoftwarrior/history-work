@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2023-07-05 15:12:09 +0200
+config: update deployment settings 2023-07-09 15:12:09 +0200
