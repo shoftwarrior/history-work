@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 config: update deployment settings 2023-07-31 15:12:18 +0200
 =======
 user-story: implement user governance voting 2023-07-31 15:12:16 +0200
 >>>>>>> user-story
+=======
+feature: add search functionality 2023-07-09 15:12:11 +0200
+>>>>>>> feature
