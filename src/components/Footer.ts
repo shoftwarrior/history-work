@@ -1,1 +1,1 @@
-version: bump to v2.0.0 for feature release 2023-07-06 15:12:09 +0200
+feat: develop user profile page 2023-07-09 15:12:10 +0200
