@@ -1,1 +1,1 @@
-docs: document main branch changes 2023-07-09 15:12:14 +0200
+main: integrate decentralized oracle service 2023-07-09 15:12:18 +0200
