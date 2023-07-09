@@ -1,1 +1,1 @@
-bug: address validation error in form 2023-08-03 15:12:11 +0200
+bugfix: optimize gas usage in lending protocol 2023-07-09 15:12:13 +0200

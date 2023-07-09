@@ -1,1 +1,1 @@
-fix: resolve issue with user login 2023-07-31 15:12:14 +0200
+bugfix: optimize gas usage in lending protocol 2023-07-09 15:12:13 +0200
