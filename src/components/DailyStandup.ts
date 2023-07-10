@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2023-07-10 15:12:13 +0200
+test: add unit tests for core functionality 2023-07-10 15:12:18 +0200

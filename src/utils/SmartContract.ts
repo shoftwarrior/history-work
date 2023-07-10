@@ -1,1 +1,1 @@
-docs: update project documentation 2023-07-10 15:12:15 +0200
+test: add unit tests for core functionality 2023-07-10 15:12:18 +0200
