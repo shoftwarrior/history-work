@@ -1,1 +1,1 @@
-feat: develop user profile page 2023-07-04 15:12:18 +0200
+feat: integrate third-party API 2023-07-10 15:12:16 +0200
