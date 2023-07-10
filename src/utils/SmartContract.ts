@@ -1,1 +1,1 @@
-main: initialize DeFi project 2023-07-10 15:12:14 +0200
+docs: update project documentation 2023-07-10 15:12:15 +0200

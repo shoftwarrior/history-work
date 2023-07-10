@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-ci: configure continuous integration pipeline 2023-07-05 15:12:09 +0200
-=======
-merge: integrate changes from bugfix branch 2023-07-06 15:12:10 +0200
->>>>>>> user-story
-=======
-feature: add search functionality 2023-07-09 15:12:11 +0200
->>>>>>> feature
-=======
-version: bump to v1.1.2 for hotfix 2023-07-04 15:12:11 +0200
->>>>>>> hotfix
+docs: update project documentation 2023-07-10 15:12:15 +0200
