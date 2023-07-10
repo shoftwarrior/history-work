@@ -1,1 +1,1 @@
-version: bump to v1.1.2 for hotfix 2023-07-04 15:12:11 +0200
+fix: resolve payment processing bug 2023-07-10 15:12:11 +0200

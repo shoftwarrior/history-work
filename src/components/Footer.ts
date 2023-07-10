@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2024-01-05 15:12:13 +0200
+fix: resolve payment processing bug 2023-07-10 15:12:11 +0200

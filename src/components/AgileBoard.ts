@@ -1,1 +1,1 @@
-hotfix: address gas inefficiencies in staking mechanism 2023-12-21 15:12:09 +0200
+fix: resolve payment processing bug 2023-07-10 15:12:11 +0200
