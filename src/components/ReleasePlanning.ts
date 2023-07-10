@@ -1,1 +1,1 @@
-fix: resolve issue with user login 2023-07-31 15:12:14 +0200
+bugfix: resolve security vulnerability in tokenomics 2023-07-10 15:12:10 +0200

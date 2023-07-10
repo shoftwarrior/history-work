@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2023-07-31 15:12:13 +0200
+bugfix: resolve security vulnerability in tokenomics 2023-07-10 15:12:10 +0200

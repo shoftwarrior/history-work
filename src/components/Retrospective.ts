@@ -1,1 +1,1 @@
-bug: address validation error in form 2023-08-03 15:12:11 +0200
+bugfix: resolve security vulnerability in tokenomics 2023-07-10 15:12:10 +0200

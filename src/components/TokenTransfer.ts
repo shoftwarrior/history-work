@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2023-08-03 15:12:09 +0200
+bugfix: resolve security vulnerability in tokenomics 2023-07-10 15:12:10 +0200
