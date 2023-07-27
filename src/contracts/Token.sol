@@ -1,1 +1,1 @@
-style: format code according to style guide 2023-07-27 15:12:09 +0200
+ui: enhance homepage layout 2023-07-27 15:12:12 +0200
