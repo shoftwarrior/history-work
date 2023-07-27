@@ -1,1 +1,1 @@
-config: update deployment settings 2023-08-02 15:12:18 +0200
+main: integrate decentralized oracle service 2023-07-27 15:12:10 +0200
