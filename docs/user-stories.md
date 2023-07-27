@@ -1,1 +1,1 @@
-main: optimize gas consumption 2023-08-03 15:12:10 +0200
+style: format code according to style guide 2023-07-27 15:12:09 +0200
