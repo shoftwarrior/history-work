@@ -1,1 +1,1 @@
-test: add unit tests for core functionality 2023-07-28 15:12:09 +0200
+main: optimize gas consumption 2023-07-28 15:12:11 +0200
