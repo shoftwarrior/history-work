@@ -1,1 +1,1 @@
-style: format code according to style guide 2023-07-27 15:12:09 +0200
+test: add unit tests for core functionality 2023-07-28 15:12:09 +0200
