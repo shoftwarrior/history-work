@@ -1,1 +1,1 @@
-feature: integrate decentralized exchange 2023-07-29 15:12:09 +0200
+feature: implement governance module 2023-07-29 15:12:11 +0200
