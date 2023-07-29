@@ -1,1 +1,1 @@
-hotfix: fix tokenomics issue affecting users 2023-09-21 15:12:11 +0200
+hotfix: address gas inefficiencies in staking mechanism 2023-07-29 15:12:10 +0200

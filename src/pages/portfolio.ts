@@ -1,1 +1,1 @@
-hotfix: patch file upload vulnerability 2023-11-01 15:12:11 +0200
+hotfix: address gas inefficiencies in staking mechanism 2023-07-29 15:12:10 +0200
