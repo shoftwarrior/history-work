@@ -1,1 +1,1 @@
-config: update deployment settings 2023-07-30 15:12:10 +0200
+bugfix: fix issue with form validation 2023-07-30 15:12:14 +0200
