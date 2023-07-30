@@ -1,1 +1,1 @@
-user-story: add transaction history 2023-07-30 15:12:13 +0200
+user-story: optimize user experience 2023-07-30 15:12:16 +0200
