@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-config: update deployment settings 2023-07-30 15:12:10 +0200
-=======
-feature: integrate decentralized exchange 2023-07-29 15:12:09 +0200
->>>>>>> feature
+feature: implement user authentication 2023-07-31 15:12:11 +0200

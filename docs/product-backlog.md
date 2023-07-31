@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bugfix: fix issue with form validation 2023-07-30 15:12:14 +0200
-=======
-feature: add search functionality 2023-07-29 15:12:14 +0200
->>>>>>> feature
+feature: implement user authentication 2023-07-31 15:12:11 +0200
