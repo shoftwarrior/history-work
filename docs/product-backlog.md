@@ -1,1 +1,1 @@
-feature: add search functionality 2023-07-29 15:12:14 +0200
+feature: enable decentralized identity verification 2023-07-31 15:12:17 +0200

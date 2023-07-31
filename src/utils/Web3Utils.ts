@@ -1,1 +1,1 @@
-feature: implement governance module 2023-07-29 15:12:11 +0200
+feature: enable decentralized identity verification 2023-07-31 15:12:17 +0200

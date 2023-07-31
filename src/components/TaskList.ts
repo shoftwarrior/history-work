@@ -1,1 +1,1 @@
-refactor: optimize code for performance 2023-08-03 15:12:12 +0200
+feature: enable decentralized identity verification 2023-07-31 15:12:17 +0200
