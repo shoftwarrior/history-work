@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2023-08-03 15:12:09 +0200
+bugfix: fix issue with decentralized exchange orders 2023-07-31 15:12:13 +0200
