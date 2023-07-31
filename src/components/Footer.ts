@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2023-08-03 15:12:09 +0200
+fix: resolve issue with user login 2023-07-31 15:12:14 +0200

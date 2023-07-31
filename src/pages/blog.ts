@@ -1,1 +1,1 @@
-bug: address validation error in form 2023-09-17 15:12:10 +0200
+fix: resolve issue with user login 2023-07-31 15:12:14 +0200

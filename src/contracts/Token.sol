@@ -1,1 +1,1 @@
-ui: fix styling issues in bugfix 2023-09-19 15:12:12 +0200
+fix: resolve issue with user login 2023-07-31 15:12:14 +0200

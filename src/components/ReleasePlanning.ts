@@ -1,1 +1,1 @@
-bugfix: fix issue with decentralized exchange orders 2023-07-31 15:12:13 +0200
+fix: resolve issue with user login 2023-07-31 15:12:14 +0200
