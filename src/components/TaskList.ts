@@ -1,1 +1,1 @@
-hotfix: fix tokenomics issue affecting users 2023-09-21 15:12:11 +0200
+hotfix: patch UI/UX vulnerabilities in dApp 2023-08-02 15:12:16 +0200

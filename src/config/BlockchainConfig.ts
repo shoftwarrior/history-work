@@ -1,1 +1,1 @@
-feature: implement user authentication 2024-01-05 15:12:12 +0200
+hotfix: patch UI/UX vulnerabilities in dApp 2023-08-02 15:12:16 +0200

@@ -1,1 +1,1 @@
-hotfix: patch governance smart contract bug 2023-09-18 15:12:13 +0200
+hotfix: patch UI/UX vulnerabilities in dApp 2023-08-02 15:12:16 +0200

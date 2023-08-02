@@ -1,1 +1,1 @@
-hotfix: address performance issue 2024-01-08 15:12:19 +0200
+hotfix: patch UI/UX vulnerabilities in dApp 2023-08-02 15:12:16 +0200
