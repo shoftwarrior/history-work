@@ -1,1 +1,1 @@
-feat: implement user registration 2023-09-02 15:12:18 +0200
+feature: integrate staking mechanism 2023-08-02 15:12:26 +0200
