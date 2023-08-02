@@ -1,1 +1,1 @@
-main: initialize DeFi project 2023-08-02 15:12:15 +0200
+config: update deployment settings 2023-08-02 15:12:18 +0200
