@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2023-08-02 15:12:14 +0200
+refactor: optimize database queries 2023-08-02 15:12:19 +0200
