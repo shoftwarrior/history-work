@@ -1,1 +1,1 @@
-test: write integration tests for feature 2023-08-01 15:12:10 +0200
+config: update feature-specific settings 2023-08-02 15:12:10 +0200

@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2023-08-22 15:12:10 +0200
+config: update feature-specific settings 2023-08-02 15:12:10 +0200
