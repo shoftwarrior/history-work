@@ -1,1 +1,1 @@
-user-story: add multi-language support 2023-09-12 15:12:14 +0200
+user-story: integrate social media login 2023-08-02 15:12:20 +0200
