@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2023-08-02 15:12:14 +0200
+main: integrate with blockchain network 2023-08-02 15:12:21 +0200
