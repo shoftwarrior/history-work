@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2023-08-11 15:12:09 +0200
+docs: document main branch changes 2023-08-02 15:12:23 +0200
