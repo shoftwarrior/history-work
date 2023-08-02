@@ -1,1 +1,1 @@
-config: update deployment settings 2023-08-02 15:12:18 +0200
+style: format code according to style guide 2023-08-02 15:12:22 +0200
