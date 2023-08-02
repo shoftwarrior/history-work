@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2023-08-02 15:12:11 +0200
+main: implement basic DeFi functionalities 2023-08-02 15:12:14 +0200
