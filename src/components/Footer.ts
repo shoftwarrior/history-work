@@ -1,1 +1,1 @@
-main: integrate with blockchain network 2023-08-20 15:12:10 +0200
+version: bump to v1.1.0 2023-08-02 15:12:11 +0200

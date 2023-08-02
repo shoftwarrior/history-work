@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-feature: implement user authentication 2023-08-18 15:12:17 +0200
-=======
-feature: add decentralized lending protocol 2023-08-09 15:12:10 +0200
->>>>>>> feature
+version: bump to v1.1.0 2023-08-02 15:12:11 +0200
