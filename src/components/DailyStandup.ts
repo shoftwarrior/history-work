@@ -1,1 +1,1 @@
-merge: integrate changes from release branch 2023-08-11 15:12:10 +0200
+docs: update bugfix documentation 2023-08-03 15:12:09 +0200

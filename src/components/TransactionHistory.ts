@@ -1,1 +1,1 @@
-fix: correct error in payment processing 2023-09-04 15:12:13 +0200
+docs: update bugfix documentation 2023-08-03 15:12:09 +0200
