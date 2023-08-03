@@ -1,1 +1,1 @@
-ui: address UI glitches in bugfix 2023-08-18 15:12:09 +0200
+bug: address validation error in form 2023-08-03 15:12:11 +0200
