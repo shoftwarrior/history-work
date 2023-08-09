@@ -1,1 +1,1 @@
-feature: enable flash loans 2023-08-23 15:12:11 +0200
+feature: add decentralized lending protocol 2023-08-09 15:12:10 +0200
