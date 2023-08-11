@@ -1,1 +1,1 @@
-ui: address UI glitches in bugfix 2023-10-11 15:12:17 +0200
+merge: integrate changes from release branch 2023-08-11 15:12:10 +0200

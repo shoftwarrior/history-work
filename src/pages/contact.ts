@@ -1,1 +1,1 @@
-bugfix: resolve issue with governance smart contract 2023-11-10 15:12:14 +0200
+merge: integrate changes from release branch 2023-08-11 15:12:10 +0200
