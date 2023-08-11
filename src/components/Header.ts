@@ -1,1 +1,1 @@
-docs: update project README 2023-08-09 15:12:11 +0200
+chore: bump version to v1.0.0 2023-08-11 15:12:09 +0200

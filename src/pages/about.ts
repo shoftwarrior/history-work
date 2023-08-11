@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: integrate with blockchain network 2023-08-20 15:12:10 +0200
-=======
-bugfix: address issues reported in feature 2023-08-20 15:12:14 +0200
->>>>>>> feature
+chore: bump version to v1.0.0 2023-08-11 15:12:09 +0200

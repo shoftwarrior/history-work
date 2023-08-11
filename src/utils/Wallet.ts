@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2023-08-18 15:12:16 +0200
+chore: bump version to v1.0.0 2023-08-11 15:12:09 +0200
