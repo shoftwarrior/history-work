@@ -1,1 +1,1 @@
-chore: bump version to v1.0.0 2023-08-23 15:12:09 +0200
+main: integrate decentralized oracle service 2023-08-18 15:12:13 +0200
