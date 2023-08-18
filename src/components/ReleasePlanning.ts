@@ -1,1 +1,1 @@
-fix: correct error in payment processing 2023-09-04 15:12:13 +0200
+ui: address UI glitches in bugfix 2023-08-18 15:12:09 +0200
