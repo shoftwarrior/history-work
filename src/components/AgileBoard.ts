@@ -1,1 +1,1 @@
-feat: add notification system 2023-08-18 15:12:11 +0200
+bugfix: address issues reported in feature 2023-08-18 15:12:14 +0200
