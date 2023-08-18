@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2023-08-24 15:12:09 +0200
+main: initialize DeFi project 2023-08-18 15:12:10 +0200
