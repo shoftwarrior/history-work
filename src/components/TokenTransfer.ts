@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2023-08-18 15:12:18 +0200
+main: update documentation 2023-08-20 15:12:09 +0200
