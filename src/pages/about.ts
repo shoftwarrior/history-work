@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2023-09-03 15:12:10 +0200
+feature: implement synthetic asset creation 2023-08-22 15:12:10 +0200
