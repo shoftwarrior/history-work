@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2023-08-22 15:12:10 +0200
+version: bump to v2.0.0 for feature release 2023-08-23 15:12:12 +0200
