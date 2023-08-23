@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2023-09-04 15:12:12 +0200
+chore: bump version to v1.0.0 2023-08-23 15:12:09 +0200
