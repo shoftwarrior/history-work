@@ -1,1 +1,1 @@
-spike: experiment with decentralized identity solutions 2023-12-03 15:12:09 +0200
+config: configure settings for spike 2023-08-24 15:12:11 +0200
