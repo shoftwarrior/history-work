@@ -1,1 +1,1 @@
-user-story: enhance user preferences 2023-09-02 15:12:10 +0200
+bugfix: fix user-related issues 2023-08-24 15:12:10 +0200

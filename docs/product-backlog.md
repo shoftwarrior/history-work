@@ -1,1 +1,1 @@
-user-story: refactor user profile component 2023-09-12 15:12:09 +0200
+bugfix: fix user-related issues 2023-08-24 15:12:10 +0200
