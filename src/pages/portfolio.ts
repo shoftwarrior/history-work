@@ -1,1 +1,1 @@
-docs: update project documentation 2023-08-23 15:12:10 +0200
+main: implement basic DeFi functionalities 2023-08-24 15:12:09 +0200
