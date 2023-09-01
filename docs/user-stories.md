@@ -1,1 +1,1 @@
-bugfix: fix issues reported by the community 2023-12-04 15:12:26 +0200
+fix: resolve issue with user login 2023-09-01 15:12:12 +0200
