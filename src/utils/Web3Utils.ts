@@ -1,1 +1,1 @@
-chore: initial project setup 2023-09-01 15:12:15 +0200
+docs: document main branch changes 2023-09-01 15:12:16 +0200
