@@ -1,1 +1,1 @@
-refactor: optimize database queries 2023-09-01 15:12:09 +0200
+version: bump to v1.1.0 2023-09-01 15:12:11 +0200
