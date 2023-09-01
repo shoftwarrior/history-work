@@ -1,1 +1,1 @@
-refactor: optimize database queries 2023-09-01 15:12:09 +0200
+chore: initial project setup 2023-09-01 15:12:15 +0200

@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2023-09-05 15:12:10 +0200
+chore: initial project setup 2023-09-01 15:12:15 +0200
