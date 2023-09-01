@@ -1,1 +1,1 @@
-refactor: optimize main module 2023-09-01 15:12:22 +0200
+docs: document main branch changes 2023-09-01 15:12:24 +0200
