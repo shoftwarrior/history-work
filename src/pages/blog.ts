@@ -1,1 +1,1 @@
-docs: document new feature in README 2023-09-01 15:12:10 +0200
+feat: introduce dark mode 2023-09-01 15:12:20 +0200
