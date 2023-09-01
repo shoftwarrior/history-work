@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2023-09-01 15:12:11 +0200
+test: add main branch unit tests 2023-09-01 15:12:14 +0200
