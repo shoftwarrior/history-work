@@ -1,1 +1,1 @@
-refactor: optimize main module 2023-09-01 15:12:22 +0200
+docs: update project README 2023-09-02 15:12:12 +0200
