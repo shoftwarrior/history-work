@@ -1,1 +1,1 @@
-feat: implement user registration 2023-09-02 15:12:18 +0200
+feature: implement admin dashboard 2023-09-02 15:12:20 +0200
