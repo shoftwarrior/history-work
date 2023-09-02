@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-docs: update project documentation 2023-09-01 15:12:19 +0200
-=======
-user-story: implement user feedback system 2023-09-01 15:12:21 +0200
->>>>>>> user-story
+feature: implement user authentication 2023-09-02 15:12:09 +0200
