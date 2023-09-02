@@ -1,1 +1,1 @@
-test: add unit tests for core functionality 2023-09-02 15:12:21 +0200
+config: update deployment settings 2023-09-02 15:12:22 +0200
