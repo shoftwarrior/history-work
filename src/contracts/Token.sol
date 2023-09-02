@@ -1,1 +1,1 @@
-main: configure decentralized storage 2023-09-02 15:12:13 +0200
+style: format code according to style guide 2023-09-02 15:12:16 +0200
