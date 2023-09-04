@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-docs: document main branch changes 2023-09-02 15:12:14 +0200
-=======
-config: update feature-specific settings 2023-09-02 15:12:15 +0200
->>>>>>> feature
-=======
-feat: implement user registration 2023-09-02 15:12:18 +0200
->>>>>>> feature
+merge: integrate changes from feature branch 2023-09-04 15:12:12 +0200
