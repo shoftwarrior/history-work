@@ -1,1 +1,1 @@
-bug: address validation error in form 2023-09-17 15:12:10 +0200
+fix: correct error in payment processing 2023-09-04 15:12:13 +0200
