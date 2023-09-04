@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2023-09-03 15:12:10 +0200
+feat: develop user profile page 2023-09-04 15:12:11 +0200

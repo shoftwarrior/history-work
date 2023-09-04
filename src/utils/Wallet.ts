@@ -1,1 +1,1 @@
-feat: implement user registration 2023-09-02 15:12:18 +0200
+feat: develop user profile page 2023-09-04 15:12:11 +0200

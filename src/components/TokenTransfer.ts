@@ -1,1 +1,1 @@
-docs: document new feature in README 2023-09-05 15:12:09 +0200
+feat: develop user profile page 2023-09-04 15:12:11 +0200
