@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2023-09-03 15:12:10 +0200
+feature: implement admin dashboard 2023-09-04 15:12:09 +0200
