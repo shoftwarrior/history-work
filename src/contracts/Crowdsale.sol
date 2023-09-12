@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2023-09-12 15:12:12 +0200
+main: configure decentralized storage 2023-09-12 15:12:13 +0200
