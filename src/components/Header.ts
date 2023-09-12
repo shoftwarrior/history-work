@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2023-09-22 15:12:17 +0200
+test: add unit tests for core functionality 2023-09-12 15:12:10 +0200
