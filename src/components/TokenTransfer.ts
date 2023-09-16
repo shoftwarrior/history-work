@@ -1,1 +1,1 @@
-feat: implement user registration 2023-09-21 15:12:16 +0200
+ui: improve user interface for feature 2023-09-16 15:12:11 +0200
