@@ -1,1 +1,1 @@
-feature: implement user authentication 2023-09-22 15:12:18 +0200
+chore: bump version to v1.0.0 2023-09-17 15:12:09 +0200
