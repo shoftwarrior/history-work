@@ -1,1 +1,1 @@
-config: adjust settings for bugfix 2023-09-20 15:12:11 +0200
+bug: address validation error in form 2023-09-17 15:12:10 +0200
