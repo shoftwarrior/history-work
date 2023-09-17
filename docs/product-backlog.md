@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2023-09-17 15:12:11 +0200
+test: add unit tests for core functionality 2023-09-17 15:12:12 +0200

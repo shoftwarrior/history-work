@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: implement basic DeFi functionalities 2023-09-21 15:12:18 +0200
-=======
-ui: enhance user experience in user story 2023-09-21 15:12:09 +0200
->>>>>>> user-story
+test: add unit tests for core functionality 2023-09-17 15:12:12 +0200
