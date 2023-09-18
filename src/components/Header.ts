@@ -1,1 +1,1 @@
-hotfix: address gas inefficiencies in staking mechanism 2023-12-21 15:12:09 +0200
+hotfix: patch governance smart contract bug 2023-09-18 15:12:13 +0200
