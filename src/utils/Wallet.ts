@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2023-09-17 15:12:11 +0200
+main: integrate with blockchain network 2023-09-18 15:12:10 +0200
