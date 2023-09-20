@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: configure decentralized storage 2023-10-13 15:12:10 +0200
-=======
-feat: implement user registration 2023-10-11 15:12:20 +0200
->>>>>>> feature
+ci: configure continuous integration 2023-09-20 15:12:15 +0200
