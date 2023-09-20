@@ -1,1 +1,1 @@
-fix: address performance bottleneck 2023-10-29 15:12:10 +0200
+config: adjust settings for bugfix 2023-09-20 15:12:11 +0200
