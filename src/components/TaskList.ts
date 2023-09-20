@@ -1,1 +1,1 @@
-docs: document new feature in README 2023-09-19 15:12:11 +0200
+feature: enable flash loans 2023-09-20 15:12:09 +0200
