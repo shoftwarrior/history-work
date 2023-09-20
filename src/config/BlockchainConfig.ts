@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2023-10-11 15:12:18 +0200
+feature: integrate decentralized exchange 2023-09-20 15:12:12 +0200
