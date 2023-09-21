@@ -1,1 +1,1 @@
-feature: integrate decentralized exchange 2023-09-20 15:12:12 +0200
+docs: document new feature in README 2023-09-21 15:12:10 +0200
