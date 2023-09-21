@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-merge: integrate changes from feature branch 2023-09-20 15:12:16 +0200
-=======
-feature: integrate decentralized exchange 2023-09-20 15:12:12 +0200
->>>>>>> feature
+docs: document main branch changes 2023-09-21 15:12:14 +0200
