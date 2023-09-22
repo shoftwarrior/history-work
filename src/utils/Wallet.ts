@@ -1,1 +1,1 @@
-docs: document main branch changes 2023-09-21 15:12:14 +0200
+docs: update project documentation 2023-09-22 15:12:13 +0200
