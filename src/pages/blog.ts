@@ -1,1 +1,1 @@
-ui: fix styling issues in bugfix 2023-09-19 15:12:12 +0200
+hotfix: patch security vulnerability 2023-09-22 15:12:12 +0200
