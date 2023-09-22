@@ -1,1 +1,1 @@
-docs: document new feature in README 2023-09-21 15:12:10 +0200
+refactor: optimize code for performance 2023-09-22 15:12:15 +0200
