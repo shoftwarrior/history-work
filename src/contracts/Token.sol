@@ -1,1 +1,1 @@
-bugfix: resolve issue with governance smart contract 2023-11-10 15:12:14 +0200
+ui: address UI glitches in bugfix 2023-10-11 15:12:17 +0200

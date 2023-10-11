@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2023-11-02 15:12:20 +0200
+ui: address UI glitches in bugfix 2023-10-11 15:12:17 +0200

@@ -1,1 +1,1 @@
-fix: address performance bottleneck 2023-10-21 15:12:18 +0200
+ui: address UI glitches in bugfix 2023-10-11 15:12:17 +0200
