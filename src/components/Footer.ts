@@ -1,1 +1,1 @@
-refactor: optimize main module 2023-10-11 15:12:22 +0200
+main: refactor smart contract logic 2023-10-11 15:12:24 +0200
