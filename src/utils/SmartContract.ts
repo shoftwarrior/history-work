@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2023-10-11 15:12:11 +0200
+docs: update project README 2023-10-11 15:12:15 +0200
