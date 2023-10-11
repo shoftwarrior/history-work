@@ -1,1 +1,1 @@
-user-story: optimize gas fees for users 2023-10-11 15:12:10 +0200
+user-story: refactor user profile component 2023-10-11 15:12:21 +0200
