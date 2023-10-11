@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: integrate decentralized oracle service 2023-10-11 15:12:11 +0200
-=======
-feature: integrate decentralized exchange 2023-10-11 15:12:09 +0200
->>>>>>> feature
+bugfix: fix issue with form validation 2023-10-11 15:12:25 +0200

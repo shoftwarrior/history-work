@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2023-10-11 15:12:24 +0200
+bugfix: fix issue with form validation 2023-10-11 15:12:25 +0200
