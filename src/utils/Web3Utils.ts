@@ -1,1 +1,1 @@
-feature: integrate staking mechanism 2023-11-02 15:12:10 +0200
+feature: integrate decentralized exchange 2023-10-11 15:12:09 +0200
