@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2023-10-11 15:12:18 +0200
+config: update feature-specific settings 2023-10-12 15:12:12 +0200
