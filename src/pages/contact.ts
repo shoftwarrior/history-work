@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2023-10-11 15:12:25 +0200
+main: configure decentralized storage 2023-10-13 15:12:10 +0200
