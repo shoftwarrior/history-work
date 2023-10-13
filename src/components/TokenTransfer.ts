@@ -1,1 +1,1 @@
-ci: configure continuous integration 2023-10-12 15:12:11 +0200
+main: set up smart contract infrastructure 2023-10-13 15:12:12 +0200
