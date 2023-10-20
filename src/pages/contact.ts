@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2023-11-02 15:12:13 +0200
+ci: configure continuous integration pipeline 2023-10-20 15:12:12 +0200
