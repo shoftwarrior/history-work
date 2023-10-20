@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2023-11-03 15:12:09 +0200
+refactor: optimize database queries 2023-10-20 15:12:10 +0200
