@@ -1,1 +1,1 @@
-merge: integrate changes from bugfix branch 2023-10-29 15:12:09 +0200
+ui: enhance user experience in user story 2023-10-20 15:12:11 +0200
