@@ -1,1 +1,1 @@
-feature: integrate staking mechanism 2023-11-02 15:12:10 +0200
+feature: add insurance protocol 2023-10-21 15:12:10 +0200
