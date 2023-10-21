@@ -1,1 +1,1 @@
-ci: configure continuous integration 2023-11-02 15:12:17 +0200
+ui: enhance homepage layout 2023-10-21 15:12:13 +0200
