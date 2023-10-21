@@ -1,1 +1,1 @@
-ui: enhance homepage layout 2023-10-21 15:12:13 +0200
+main: implement basic tokenomics 2023-10-21 15:12:16 +0200
