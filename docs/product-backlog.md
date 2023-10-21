@@ -1,1 +1,1 @@
-ui: fix styling issues in bugfix 2023-11-08 15:12:10 +0200
+fix: address performance bottleneck 2023-10-21 15:12:18 +0200

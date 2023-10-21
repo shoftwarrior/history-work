@@ -1,1 +1,1 @@
-bugfix: resolve issue with governance smart contract 2023-11-10 15:12:14 +0200
+fix: address performance bottleneck 2023-10-21 15:12:18 +0200
