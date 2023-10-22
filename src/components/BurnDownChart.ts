@@ -1,1 +1,1 @@
-feature: implement synthetic asset creation 2023-10-22 15:12:13 +0200
+feature: integrate decentralized exchange 2023-10-22 15:12:26 +0200
