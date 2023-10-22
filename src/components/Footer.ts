@@ -1,1 +1,1 @@
-feature: integrate staking mechanism 2023-11-02 15:12:10 +0200
+feature: implement synthetic asset creation 2023-10-22 15:12:13 +0200
