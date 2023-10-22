@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2023-10-22 15:12:18 +0200
+bugfix: fix issue with form validation 2023-10-22 15:12:22 +0200
