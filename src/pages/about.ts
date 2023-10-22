@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2023-10-22 15:12:22 +0200
+docs: document main branch changes 2023-10-22 15:12:24 +0200
