@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: implement basic DeFi functionalities 2023-10-21 15:12:09 +0200
-=======
-user-story: enhance user preferences 2023-10-22 15:12:09 +0200
->>>>>>> user-story
+merge: integrate changes from feature branch 2023-10-22 15:12:12 +0200
