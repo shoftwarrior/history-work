@@ -1,1 +1,1 @@
-hotfix: patch critical security flaw 2024-01-01 15:12:10 +0200
+fix: address performance bottleneck 2023-10-29 15:12:10 +0200

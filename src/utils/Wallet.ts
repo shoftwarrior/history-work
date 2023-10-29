@@ -1,1 +1,1 @@
-docs: update bugfix documentation 2023-11-02 15:12:20 +0200
+fix: address performance bottleneck 2023-10-29 15:12:10 +0200
