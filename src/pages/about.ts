@@ -1,1 +1,1 @@
-user-story: implement user profile feature 2023-12-03 15:12:14 +0200
+user-story: optimize gas fees for users 2023-11-01 15:12:09 +0200

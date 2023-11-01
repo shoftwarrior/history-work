@@ -1,1 +1,1 @@
-user-story: resolve user-reported issues 2023-12-02 15:12:18 +0200
+user-story: optimize gas fees for users 2023-11-01 15:12:09 +0200
