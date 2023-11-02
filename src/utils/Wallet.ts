@@ -1,1 +1,1 @@
-feat: integrate third-party API 2023-11-10 15:12:18 +0200
+feature: integrate staking mechanism 2023-11-02 15:12:10 +0200
