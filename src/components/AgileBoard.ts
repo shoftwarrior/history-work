@@ -1,1 +1,1 @@
-bugfix: fix issues reported by the community 2023-12-04 15:12:26 +0200
+docs: update bugfix documentation 2023-11-02 15:12:20 +0200
