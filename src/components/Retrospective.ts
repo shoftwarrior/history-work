@@ -1,1 +1,1 @@
-docs: document main branch changes 2023-11-02 15:12:09 +0200
+config: update deployment settings 2023-11-02 15:12:16 +0200
