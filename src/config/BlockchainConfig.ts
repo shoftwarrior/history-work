@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2023-11-02 15:12:11 +0200
+refactor: optimize main module 2023-11-02 15:12:14 +0200
