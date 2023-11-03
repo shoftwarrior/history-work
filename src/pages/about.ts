@@ -1,1 +1,1 @@
-ci: configure continuous integration 2023-11-02 15:12:17 +0200
+main: implement basic tokenomics 2023-11-03 15:12:09 +0200
