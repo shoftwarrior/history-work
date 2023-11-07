@@ -1,1 +1,1 @@
-test: add unit tests for core functionality 2023-11-18 15:12:09 +0200
+chore: bump version to v1.0.0 2023-11-07 15:12:12 +0200

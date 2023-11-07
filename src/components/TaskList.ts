@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-config: update deployment settings 2023-12-04 15:12:20 +0200
-=======
-refactor: optimize code for performance 2023-12-04 15:12:22 +0200
->>>>>>> feature
+chore: bump version to v1.0.0 2023-11-07 15:12:12 +0200
