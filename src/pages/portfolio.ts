@@ -1,1 +1,1 @@
-test: add unit tests for core functionality 2023-11-18 15:12:09 +0200
+ci: configure continuous integration 2023-11-07 15:12:10 +0200
