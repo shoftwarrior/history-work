@@ -1,1 +1,1 @@
-hotfix: patch critical security flaw 2024-01-01 15:12:10 +0200
+bug: fix database connection issue 2023-11-07 15:12:13 +0200

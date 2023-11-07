@@ -1,1 +1,1 @@
-merge: integrate changes from release branch 2024-01-06 15:12:15 +0200
+bug: fix database connection issue 2023-11-07 15:12:13 +0200

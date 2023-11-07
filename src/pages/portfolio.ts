@@ -1,1 +1,1 @@
-fix: resolve UI rendering bug 2023-12-04 15:12:16 +0200
+bug: fix database connection issue 2023-11-07 15:12:13 +0200

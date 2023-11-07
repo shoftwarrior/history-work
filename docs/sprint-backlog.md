@@ -1,1 +1,1 @@
-bugfix: fix issue with smart contract vulnerabilities 2024-01-08 15:12:26 +0200
+bug: fix database connection issue 2023-11-07 15:12:13 +0200
