@@ -1,1 +1,1 @@
-bugfix: address issues reported in feature 2023-12-01 15:12:11 +0200
+feature: integrate decentralized exchange 2023-11-07 15:12:15 +0200
