@@ -1,1 +1,1 @@
-docs: update project documentation 2023-11-08 15:12:09 +0200
+main: refactor smart contract logic 2023-11-08 15:12:12 +0200

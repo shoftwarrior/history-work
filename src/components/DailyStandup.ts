@@ -1,1 +1,1 @@
-test: add main branch unit tests 2023-11-07 15:12:14 +0200
+main: refactor smart contract logic 2023-11-08 15:12:12 +0200

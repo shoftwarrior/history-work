@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2023-11-07 15:12:16 +0200
+main: refactor smart contract logic 2023-11-08 15:12:12 +0200
