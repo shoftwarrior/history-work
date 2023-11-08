@@ -1,1 +1,1 @@
-bugfix: fix issues reported by the community 2023-12-04 15:12:26 +0200
+ui: fix styling issues in bugfix 2023-11-08 15:12:10 +0200
