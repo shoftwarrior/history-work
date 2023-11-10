@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2023-11-08 15:12:12 +0200
+docs: document main branch changes 2023-11-10 15:12:09 +0200
