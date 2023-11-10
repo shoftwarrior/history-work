@@ -1,1 +1,1 @@
-hotfix: patch critical security flaw 2024-01-01 15:12:10 +0200
+bugfix: resolve issue with governance smart contract 2023-11-10 15:12:14 +0200

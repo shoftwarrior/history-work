@@ -1,1 +1,1 @@
-bug: fix database connection issue 2023-11-07 15:12:13 +0200
+bugfix: resolve issue with governance smart contract 2023-11-10 15:12:14 +0200
