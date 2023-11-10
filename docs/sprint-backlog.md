@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2023-11-07 15:12:16 +0200
+merge: integrate changes from feature branch 2023-11-10 15:12:11 +0200
