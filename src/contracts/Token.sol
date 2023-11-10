@@ -1,1 +1,1 @@
-feat: implement user registration 2023-11-10 15:12:15 +0200
+feat: integrate third-party API 2023-11-10 15:12:18 +0200
