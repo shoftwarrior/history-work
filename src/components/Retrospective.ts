@@ -1,1 +1,1 @@
-docs: update project documentation 2023-11-08 15:12:13 +0200
+docs: update project README 2023-11-11 15:12:10 +0200
