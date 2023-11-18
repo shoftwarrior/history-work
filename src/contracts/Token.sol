@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-config: update deployment settings 2023-12-04 15:12:20 +0200
-=======
-refactor: optimize code for performance 2023-12-04 15:12:22 +0200
->>>>>>> feature
+ci: configure continuous integration pipeline 2023-11-18 15:12:10 +0200

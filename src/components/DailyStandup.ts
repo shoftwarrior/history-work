@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2023-12-04 15:12:10 +0200
+ci: configure continuous integration pipeline 2023-11-18 15:12:10 +0200
