@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: implement basic DeFi functionalities 2023-12-04 15:12:10 +0200
-=======
-refactor: optimize code for performance 2023-12-04 15:12:22 +0200
->>>>>>> feature
+test: add unit tests for core functionality 2023-11-18 15:12:09 +0200
