@@ -1,1 +1,1 @@
-feature: add decentralized lending protocol 2023-12-23 15:12:10 +0200
+ui: improve user interface for feature 2023-11-30 15:12:16 +0200
