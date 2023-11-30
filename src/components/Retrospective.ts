@@ -1,1 +1,1 @@
-main: integrate decentralized oracle service 2023-11-30 15:12:14 +0200
+main: configure decentralized storage 2023-11-30 15:12:17 +0200
