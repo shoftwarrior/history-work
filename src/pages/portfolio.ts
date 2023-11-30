@@ -1,1 +1,1 @@
-user-story: implement user governance voting 2023-11-30 15:12:11 +0200
+refactor: optimize code for user story 2023-11-30 15:12:12 +0200
