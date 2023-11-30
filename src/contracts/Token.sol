@@ -1,1 +1,1 @@
-config: configure user story settings 2023-11-30 15:12:09 +0200
+bugfix: fix user-related issues 2023-11-30 15:12:15 +0200
