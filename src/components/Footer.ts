@@ -1,1 +1,1 @@
-refactor: optimize database queries 2023-12-13 15:12:14 +0200
+ui: enhance homepage layout 2023-11-30 15:12:10 +0200
