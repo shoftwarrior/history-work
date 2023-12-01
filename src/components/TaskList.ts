@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2023-12-01 15:12:15 +0200
+test: add main branch unit tests 2023-12-01 15:12:16 +0200
