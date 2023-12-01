@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: configure decentralized storage 2023-11-30 15:12:17 +0200
-=======
-refactor: optimize code for performance 2023-11-30 15:12:18 +0200
->>>>>>> feature
+version: bump to v1.1.0 2023-12-01 15:12:10 +0200

@@ -1,1 +1,1 @@
-main: configure decentralized storage 2023-11-30 15:12:17 +0200
+version: bump to v1.1.0 2023-12-01 15:12:10 +0200
