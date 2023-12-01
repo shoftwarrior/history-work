@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2023-12-01 15:12:09 +0200
+main: implement basic tokenomics 2023-12-01 15:12:15 +0200

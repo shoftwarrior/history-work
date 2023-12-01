@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2023-12-01 15:12:13 +0200
+main: implement basic tokenomics 2023-12-01 15:12:15 +0200
