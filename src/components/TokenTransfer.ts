@@ -1,1 +1,1 @@
-refactor: optimize code for performance 2023-11-30 15:12:18 +0200
+docs: document new feature in README 2023-12-01 15:12:14 +0200
