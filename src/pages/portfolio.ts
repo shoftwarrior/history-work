@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-version: bump to v1.1.0 2023-12-01 15:12:10 +0200
-=======
-bugfix: address issues reported in feature 2023-12-01 15:12:11 +0200
->>>>>>> feature
+main: integrate decentralized oracle service 2023-12-02 15:12:12 +0200
