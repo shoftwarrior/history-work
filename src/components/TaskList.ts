@@ -1,1 +1,1 @@
-user-story: integrate social media login 2023-12-03 15:12:11 +0200
+merge: integrate changes from bugfix branch 2023-12-03 15:12:15 +0200
