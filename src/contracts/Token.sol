@@ -1,1 +1,1 @@
-feature: add decentralized lending protocol 2023-12-23 15:12:10 +0200
+spike: experiment with decentralized identity solutions 2023-12-03 15:12:09 +0200

@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2024-01-06 15:12:24 +0200
+spike: experiment with decentralized identity solutions 2023-12-03 15:12:09 +0200
