@@ -1,1 +1,1 @@
-version: bump to v2.0.0 for feature release 2023-12-02 15:12:10 +0200
+docs: document new feature in README 2023-12-03 15:12:12 +0200
