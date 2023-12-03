@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2023-12-02 15:12:17 +0200
+main: configure decentralized storage 2023-12-03 15:12:16 +0200
