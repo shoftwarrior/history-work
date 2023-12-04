@@ -1,1 +1,1 @@
-user-story: implement user notifications 2024-01-10 15:12:09 +0200
+bugfix: fix issues reported by the community 2023-12-04 15:12:26 +0200
