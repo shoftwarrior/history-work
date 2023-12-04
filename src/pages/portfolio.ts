@@ -1,1 +1,1 @@
-bugfix: fix issue with smart contract vulnerabilities 2024-01-08 15:12:26 +0200
+fix: resolve UI rendering bug 2023-12-04 15:12:16 +0200
