@@ -1,1 +1,1 @@
-feature: integrate decentralized exchange 2023-12-13 15:12:18 +0200
+ui: improve user interface for feature 2023-12-04 15:12:14 +0200
