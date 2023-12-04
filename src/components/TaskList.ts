@@ -1,1 +1,1 @@
-main: optimize gas consumption 2023-12-02 15:12:16 +0200
+config: update deployment settings 2023-12-04 15:12:20 +0200

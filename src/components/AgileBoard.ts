@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2023-12-04 15:12:10 +0200
+config: update deployment settings 2023-12-04 15:12:20 +0200

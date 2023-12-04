@@ -1,1 +1,1 @@
-docs: update project README 2023-12-04 15:12:18 +0200
+config: update deployment settings 2023-12-04 15:12:20 +0200
