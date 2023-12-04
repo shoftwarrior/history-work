@@ -1,1 +1,1 @@
-ui: improve user interface for feature 2023-11-30 15:12:16 +0200
+feature: add liquidity mining feature 2023-12-04 15:12:12 +0200
