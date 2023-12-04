@@ -1,1 +1,1 @@
-main: implement basic DeFi functionalities 2023-12-04 15:12:10 +0200
+docs: update project README 2023-12-04 15:12:18 +0200
