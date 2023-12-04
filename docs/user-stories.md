@@ -1,1 +1,1 @@
-bugfix: fix issue with smart contract vulnerabilities 2024-01-08 15:12:26 +0200
+merge: integrate changes from release branch 2023-12-04 15:12:15 +0200

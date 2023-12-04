@@ -1,1 +1,1 @@
-bugfix: optimize gas usage in lending protocol 2024-01-08 15:12:15 +0200
+merge: integrate changes from release branch 2023-12-04 15:12:15 +0200
