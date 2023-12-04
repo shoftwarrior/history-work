@@ -1,1 +1,1 @@
-merge: integrate changes from bugfix branch 2023-12-03 15:12:15 +0200
+user-story: implement user governance voting 2023-12-04 15:12:24 +0200
