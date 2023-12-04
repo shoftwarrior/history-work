@@ -1,1 +1,1 @@
-main: configure decentralized storage 2023-12-03 15:12:16 +0200
+test: add main branch unit tests 2023-12-04 15:12:19 +0200
