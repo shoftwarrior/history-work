@@ -1,1 +1,1 @@
-merge: integrate changes from bugfix branch 2023-12-03 15:12:15 +0200
+user-story: improve user onboarding flow 2023-12-04 15:12:13 +0200
