@@ -1,1 +1,1 @@
-config: update deployment settings 2023-12-24 15:12:10 +0200
+version: bump to v1.1.0 2023-12-05 15:12:09 +0200
