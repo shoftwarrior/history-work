@@ -1,1 +1,1 @@
-docs: document new feature in README 2023-12-24 15:12:12 +0200
+feature: implement admin dashboard 2023-12-05 15:12:10 +0200
