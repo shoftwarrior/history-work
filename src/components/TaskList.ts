@@ -1,1 +1,1 @@
-feature: add search functionality 2023-12-22 15:12:09 +0200
+feature: integrate decentralized exchange 2023-12-13 15:12:10 +0200
