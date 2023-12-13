@@ -1,1 +1,1 @@
-ci: configure continuous integration pipeline 2023-12-13 15:12:11 +0200
+chore: initial project setup 2023-12-13 15:12:12 +0200
