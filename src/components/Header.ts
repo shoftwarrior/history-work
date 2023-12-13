@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ci: configure continuous integration pipeline 2024-01-08 15:12:25 +0200
-=======
-feat: add notification system 2023-12-21 15:12:10 +0200
->>>>>>> feature
+main: implement basic tokenomics 2023-12-13 15:12:17 +0200
