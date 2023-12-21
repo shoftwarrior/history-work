@@ -1,1 +1,1 @@
-hotfix: patch UI/UX vulnerabilities in dApp 2024-01-08 15:12:23 +0200
+hotfix: address gas inefficiencies in staking mechanism 2023-12-21 15:12:09 +0200

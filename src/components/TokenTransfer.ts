@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2024-01-05 15:12:13 +0200
+hotfix: address gas inefficiencies in staking mechanism 2023-12-21 15:12:09 +0200
