@@ -1,1 +1,1 @@
-feat: add notification system 2023-12-21 15:12:10 +0200
+config: update feature-specific settings 2023-12-22 15:12:10 +0200
