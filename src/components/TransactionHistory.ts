@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2024-01-06 15:12:21 +0200
+feature: add search functionality 2023-12-22 15:12:09 +0200
