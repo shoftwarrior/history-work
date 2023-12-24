@@ -1,1 +1,1 @@
-main: integrate with blockchain network 2023-12-23 15:12:09 +0200
+config: update deployment settings 2023-12-24 15:12:10 +0200
