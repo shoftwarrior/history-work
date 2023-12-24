@@ -1,1 +1,1 @@
-feat: add notification system 2023-12-21 15:12:10 +0200
+docs: document new feature in README 2023-12-24 15:12:12 +0200

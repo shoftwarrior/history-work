@@ -1,1 +1,1 @@
-feature: enable decentralized identity verification 2024-01-06 15:12:24 +0200
+docs: document new feature in README 2023-12-24 15:12:12 +0200
