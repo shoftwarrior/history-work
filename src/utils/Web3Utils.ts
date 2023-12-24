@@ -1,1 +1,1 @@
-config: update feature-specific settings 2024-01-08 15:12:22 +0200
+feature: add insurance protocol 2023-12-24 15:12:09 +0200
