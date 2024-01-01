@@ -1,1 +1,1 @@
-bugfix: fix issue with smart contract vulnerabilities 2024-01-08 15:12:26 +0200
+hotfix: patch critical security flaw 2024-01-01 15:12:10 +0200

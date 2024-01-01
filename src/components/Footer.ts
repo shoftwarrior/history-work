@@ -1,1 +1,1 @@
-bug: resolve issues with file uploads 2024-01-07 15:12:13 +0200
+hotfix: patch critical security flaw 2024-01-01 15:12:10 +0200

@@ -1,1 +1,1 @@
-user-story: implement user notifications 2024-01-10 15:12:09 +0200
+hotfix: patch critical security flaw 2024-01-01 15:12:10 +0200
