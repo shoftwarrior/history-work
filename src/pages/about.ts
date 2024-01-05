@@ -1,1 +1,1 @@
-feature: add search functionality 2024-01-10 15:12:10 +0200
+style: format code according to style guide 2024-01-05 15:12:14 +0200

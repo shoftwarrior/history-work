@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2024-01-05 15:12:13 +0200
+style: format code according to style guide 2024-01-05 15:12:14 +0200
