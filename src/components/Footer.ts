@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2024-01-10 15:12:11 +0200
+docs: update project README 2024-01-05 15:12:09 +0200
