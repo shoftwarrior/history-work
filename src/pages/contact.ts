@@ -1,1 +1,1 @@
-feature: implement file upload feature 2024-01-10 15:12:13 +0200
+feature: enable decentralized identity verification 2024-01-06 15:12:24 +0200
