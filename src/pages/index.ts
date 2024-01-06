@@ -1,1 +1,1 @@
-version: bump to v1.1.0 2024-01-06 15:12:16 +0200
+main: implement basic tokenomics 2024-01-06 15:12:23 +0200

@@ -1,1 +1,1 @@
-chore: initial project setup 2024-01-10 15:12:12 +0200
+main: implement basic tokenomics 2024-01-06 15:12:23 +0200
