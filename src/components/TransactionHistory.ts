@@ -1,1 +1,1 @@
-feature: enhance user authentication 2024-01-06 15:12:18 +0200
+ui: implement new dashboard design 2024-01-06 15:12:21 +0200

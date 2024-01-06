@@ -1,1 +1,1 @@
-feat: implement user registration 2024-01-06 15:12:19 +0200
+ui: implement new dashboard design 2024-01-06 15:12:21 +0200
