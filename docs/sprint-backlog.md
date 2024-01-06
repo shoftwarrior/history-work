@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2024-01-05 15:12:13 +0200
+hotfix: fix flash loan vulnerability 2024-01-06 15:12:10 +0200
