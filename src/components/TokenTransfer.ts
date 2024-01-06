@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2024-01-05 15:12:13 +0200
+version: bump to v1.1.0 2024-01-06 15:12:16 +0200

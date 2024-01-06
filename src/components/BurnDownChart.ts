@@ -1,1 +1,1 @@
-main: initialize DeFi project 2024-01-10 15:12:14 +0200
+version: bump to v1.1.0 2024-01-06 15:12:16 +0200
