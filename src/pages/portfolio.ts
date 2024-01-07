@@ -1,1 +1,1 @@
-config: update deployment settings 2024-01-07 15:12:20 +0200
+main: set up smart contract infrastructure 2024-01-07 15:12:22 +0200
