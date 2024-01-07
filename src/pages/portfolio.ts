@@ -1,1 +1,1 @@
-merge: integrate changes from feature branch 2024-01-07 15:12:17 +0200
+config: update deployment settings 2024-01-07 15:12:20 +0200

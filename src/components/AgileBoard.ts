@@ -1,1 +1,1 @@
-main: implement basic tokenomics 2024-01-07 15:12:15 +0200
+config: update deployment settings 2024-01-07 15:12:20 +0200

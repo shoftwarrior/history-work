@@ -1,1 +1,1 @@
-main: update documentation 2024-01-07 15:12:18 +0200
+config: update deployment settings 2024-01-07 15:12:20 +0200
