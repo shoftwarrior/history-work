@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-feature: implement user authentication 2024-01-05 15:12:12 +0200
-=======
-feature: enhance user authentication 2024-01-06 15:12:18 +0200
->>>>>>> feature
-=======
-merge: integrate changes from release branch 2024-01-06 15:12:15 +0200
->>>>>>> bugfix
+main: implement basic tokenomics 2024-01-07 15:12:15 +0200

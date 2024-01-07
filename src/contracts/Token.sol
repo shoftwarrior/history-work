@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2024-01-07 15:12:11 +0200
+main: implement basic tokenomics 2024-01-07 15:12:15 +0200
