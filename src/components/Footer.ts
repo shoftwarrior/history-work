@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2024-01-07 15:12:11 +0200
+refactor: optimize database queries 2024-01-07 15:12:14 +0200
