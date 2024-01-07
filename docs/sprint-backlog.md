@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bugfix: fix issue with form validation 2024-01-06 15:12:13 +0200
-=======
-ui: implement new dashboard design 2024-01-06 15:12:21 +0200
->>>>>>> feature
+main: update documentation 2024-01-07 15:12:18 +0200
