@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2024-01-07 15:12:22 +0200
+test: add main branch unit tests 2024-01-08 15:12:16 +0200
