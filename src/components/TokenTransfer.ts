@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2024-01-07 15:12:22 +0200
+docs: document main branch changes 2024-01-08 15:12:09 +0200
