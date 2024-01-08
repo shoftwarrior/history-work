@@ -1,1 +1,1 @@
-test: add main branch unit tests 2024-01-08 15:12:13 +0200
+ci: configure continuous integration pipeline 2024-01-08 15:12:25 +0200

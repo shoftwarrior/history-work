@@ -1,1 +1,1 @@
-style: format code according to style guide 2024-01-08 15:12:21 +0200
+ci: configure continuous integration pipeline 2024-01-08 15:12:25 +0200
