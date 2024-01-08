@@ -1,1 +1,1 @@
-user-story: address user feedback 2024-01-09 15:12:11 +0200
+bugfix: optimize gas usage in lending protocol 2024-01-08 15:12:15 +0200

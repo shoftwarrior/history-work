@@ -1,1 +1,1 @@
-user-story: implement user notifications 2024-01-10 15:12:09 +0200
+bugfix: optimize gas usage in lending protocol 2024-01-08 15:12:15 +0200

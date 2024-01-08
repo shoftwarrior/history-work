@@ -1,1 +1,1 @@
-user-story: implement user login 2024-01-06 15:12:14 +0200
+bugfix: optimize gas usage in lending protocol 2024-01-08 15:12:15 +0200
