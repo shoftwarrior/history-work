@@ -1,1 +1,1 @@
-style: format code according to style guide 2024-01-05 15:12:14 +0200
+hotfix: address performance issue 2024-01-08 15:12:19 +0200
