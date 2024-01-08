@@ -1,1 +1,1 @@
-main: set up smart contract infrastructure 2024-01-07 15:12:22 +0200
+main: configure decentralized storage 2024-01-08 15:12:12 +0200

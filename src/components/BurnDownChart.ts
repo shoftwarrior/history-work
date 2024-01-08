@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2024-01-07 15:12:11 +0200
+main: configure decentralized storage 2024-01-08 15:12:12 +0200
