@@ -1,1 +1,1 @@
-hotfix: fix flash loan vulnerability 2024-01-06 15:12:10 +0200
+hotfix: patch UI/UX vulnerabilities in dApp 2024-01-08 15:12:23 +0200

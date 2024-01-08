@@ -1,1 +1,1 @@
-bugfix: fix issue with form validation 2024-01-05 15:12:13 +0200
+hotfix: patch UI/UX vulnerabilities in dApp 2024-01-08 15:12:23 +0200
