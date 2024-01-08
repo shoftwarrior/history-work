@@ -1,1 +1,1 @@
-docs: document new feature in README 2024-01-07 15:12:12 +0200
+config: update feature-specific settings 2024-01-08 15:12:22 +0200

@@ -1,1 +1,1 @@
-ui: implement new dashboard design 2024-01-06 15:12:21 +0200
+config: update feature-specific settings 2024-01-08 15:12:22 +0200
