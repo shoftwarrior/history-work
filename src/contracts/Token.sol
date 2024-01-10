@@ -1,1 +1,1 @@
-main: refactor smart contract logic 2024-01-10 15:12:11 +0200
+chore: initial project setup 2024-01-10 15:12:12 +0200

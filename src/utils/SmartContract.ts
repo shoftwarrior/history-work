@@ -1,1 +1,1 @@
-feature: add search functionality 2024-01-10 15:12:10 +0200
+chore: initial project setup 2024-01-10 15:12:12 +0200
