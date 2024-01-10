@@ -1,1 +1,1 @@
-feature: add search functionality 2024-01-10 15:12:10 +0200
+main: refactor smart contract logic 2024-01-10 15:12:11 +0200
