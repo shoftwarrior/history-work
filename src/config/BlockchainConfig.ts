@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main: configure decentralized storage 2020-11-22 00:00:02 +0200
-=======
-feature: add insurance protocol 2020-11-22 00:00:05 +0200
->>>>>>> feature
+hotfix: address performance issue 2020-11-23 00:00:06 +0200
